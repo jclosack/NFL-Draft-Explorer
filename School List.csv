@@ -1,0 +1,690 @@
+,Cap.,City,Conference,Country,Division,Enrollment,FirstPlayed,FormerConferences,JoinedFBS,Nickname,Note,ProgramEstablished,School,School Long Name,Stadium,State,Unnamed: 0
+0,,Colorado Springs,Mountain West,United States,FBS,"4,237",1955,WAC,,Falcons,,,Air Force,Air Force,,Colorado,0.0
+1,,Akron,MAC,United States,FBS,"19,200",1891,"OAC, MCC, OVC",1987,Zips,,,Akron,Akron,,Ohio,1.0
+2,,Tuscaloosa,SEC,United States,FBS,"38,500",1892,"SIAA, SoCon",,Crimson Tide,,,Alabama,Alabama,,Alabama,2.0
+3,,Boone,Sun Belt,United States,FBS,"19,100",1928,"NSC, SoCon",2014[n 1],Mountaineers,,,Appalachian State,Appalachian State,,North Carolina,3.0
+4,,Tucson,Pac-12,United States,FBS,"45,200",1899,"BIAA, WAC",,Wildcats,,,Arizona,Arizona,,Arizona,4.0
+5,,Tempe,Pac-12,United States,FBS,"51,800",1896,"BIAA, WAC",,Sun Devils,,,Arizona State,Arizona State,,Arizona,5.0
+6,,Fayetteville,SEC,United States,FBS,"27,800",1894,SWC,,Razorbacks,,,Arkansas,Arkansas,,Arkansas,6.0
+7,,Jonesboro,Sun Belt,United States,FBS,"22,000",1911,"Arkansas Intercollegiate Conference, Southland, Big West",1992,Red Wolves,,,Arkansas State,Arkansas State,,Arkansas,7.0
+8,,West Point,Independent,United States,FBS,"4,300",1890,C-USA,,Black Knights,,,Army,Army,,New York,8.0
+9,,Auburn,SEC,United States,FBS,"30,400",1892,"SIAA, SoCon",,Tigers,,,Auburn,Auburn,,Alabama,9.0
+10,,Muncie,MAC,United States,FBS,"22,500",1924,"IIC, ICC",,Cardinals,,,Ball State,Ball State,,Indiana,10.0
+11,,Waco,Big 12,United States,FBS,"17,200",1899,"TIAA, SWC",,Bears,,,Baylor,Baylor,,Texas,11.0
+12,,Boise,Mountain West,United States,FBS,"25,500",1933[n 2],"ICAC, Big Sky, Big West, WAC",1996,Broncos,,,Boise State,Boise State,,Idaho,12.0
+13,,Chestnut Hill,ACC,United States,FBS,"14,700",1893,Big East,,Eagles,,,Boston Col.,Boston College,,Massachusetts,13.0
+14,,Bowling Green,MAC,United States,FBS,"23,000",1919,"Northwest Ohio Intercollegiate Athletic Association, OAC",,Falcons,,,Bowling Green,Bowling Green,,Ohio,14.0
+15,,Buffalo,MAC,United States,FBS,"31,500",1894,New York State Conference,1999,Bulls,,,Buffalo,Buffalo,,New York,15.0
+16,,Provo,Independent,United States,FBS,"33,600",1922,"Rocky Mountain, Mountain States, WAC, MW",,Cougars,,,BYU,BYU,,Utah,16.0
+17,,Berkeley,Pac-12,United States,FBS,"42,500",1882,PCC,,Golden Bears,,,California,California,,California,17.0
+18,,Mount Pleasant,MAC,United States,FBS,"21,700",1896,"MCC, IIAC",,Chippewas,,,Central Michigan,Central Michigan,,Michigan,18.0
+19,,Charlotte,C-USA,United States,FBS,"29,700",2013,"Sun Belt, C-USA, A-10",2015,49ers,,,Charlotte,Charlotte,,North Carolina,19.0
+20,,Cincinnati,American,United States,FBS,"46,000",1885,"OAC, Buckeye Intercollegiate Athletic Association, MAC, MVC, C-USA, Big East",,Bearcats,,,Cincinnati,Cincinnati,,Ohio,20.0
+21,,Clemson,ACC,United States,FBS,"25,000",1896,"SIAA, SAIAA, SoCon",,Tigers,,,Clemson,Clemson,,South Carolina,21.0
+22,,Conway,Sun Belt,United States,FBS,"10,600",2003,Big South,2017,Chanticleers,,,Coastal Carolina,Coastal Carolina,,South Carolina,22.0
+23,,Boulder,Pac-12,United States,FBS,"33,200",1890,"Colorado Football Association, Rocky Mountain, Mountain States, Big Eight, Big 12",,Buffaloes,,,Colorado,Colorado,,Colorado,23.0
+24,,Fort Collins,Mountain West,United States,FBS,"33,800",1890,"Colorado Football Association, Rocky Mountain, Mountain States, WAC",,Rams,,,Colorado State,Colorado State,,Colorado,24.0
+25,,Durham,ACC,United States,FBS,"15,900",1888,SoCon,,Blue Devils,,,Duke,Duke,,North Carolina,25.0
+26,,Greenville,American,United States,FBS,"29,100",1932,"NSC, Carolinas, SoCon, C-USA",,Pirates,,,East Carolina,East Carolina,,North Carolina,26.0
+27,,Ypsilanti,MAC,United States,FBS,"20,300",1891,"MIAA, MCC, IIAC, PAC",,Eagles,,,East. Michigan,Eastern Michigan,,Michigan,27.0
+28,,Miami,C-USA,United States,FBS,"56,800",2002,Sun Belt,2006,Panthers,,,Florida International,FIU,,Florida,28.0
+29,,Gainesville,SEC,United States,FBS,"56,100",1906,"SIAA, SoCon",,Gators,,,Florida,Florida,,Florida,29.0
+30,,Boca Raton,C-USA,United States,FBS,"30,800",2001,Sun Belt,2006,Owls,,,Florida Atlantic,Florida Atlantic,,Florida,30.0
+31,,Tallahassee,ACC,United States,FBS,"41,900",1947,Dixie,,Seminoles,,,Florida State,Florida State,,Florida,31.0
+32,,Fresno,Mountain West,United States,FBS,"25,000",1921,"California Coast Conference, NCAC, CCAA, Big West, WAC",,Bulldogs,,,Fresno State,Fresno State,,California,32.0
+33,,Athens,SEC,United States,FBS,"38,200",1892,"SIAA, SoCon",,Bulldogs,,,Georgia,Georgia,,Georgia,33.0
+34,,Statesboro,Sun Belt,United States,FBS,"26,400",1924,SoCon,2014,Eagles,,,Georgia Southern,Georgia Southern,,Georgia,34.0
+35,,Atlanta,Sun Belt,United States,FBS,"52,800",2010,CAA,2013,Panthers,,,Georgia State,Georgia State,,Georgia,35.0
+36,,Atlanta,ACC,United States,FBS,"32,700",1892,"SIAA, SoCon, SEC",,Yellow Jackets,,,Georgia Tech,Georgia Tech,,Georgia,36.0
+37,,Honolulu,Mountain West,United States,FBS,"17,700",1909,WAC,,Rainbow Warriors,,,Hawaii,Hawaii,,Hawai'i,37.0
+38,,Houston,American,United States,FBS,"42,700",1946,"Lone Star, Gulf Coast, MVC, SWC, C-USA[n 3]",,Cougars,,,Houston,Houston,,Texas,38.0
+39,,Urbana–Champaign,Big Ten,United States,FBS,"51,200",1890,Illinois Intercollegiate Football League,,Fighting Illini,,,Illinois,Illinois,,Illinois,39.0
+40,,Bloomington,Big Ten,United States,FBS,"43,700",1887,IIAA,,Hoosiers,,,Indiana,Indiana,,Indiana,40.0
+41,,Iowa City,Big Ten,United States,FBS,"33,000",1889,"WIUFA, MVC",,Hawkeyes,,,Iowa,Iowa,,Iowa,41.0
+42,,Ames,Big 12,United States,FBS,"33,400",1892,"MVC, Big 8",,Cyclones,,,Iowa State,Iowa State,,Iowa,42.0
+43,,Lawrence,Big 12,United States,FBS,"27,700",1890,"KCAC, WIUFA, MVC, Big 8",,Jayhawks,,,Kansas,Kansas,,Kansas,43.0
+44,,Manhattan,Big 12,United States,FBS,"21,700",1896,"MVC, Big 8",,Wildcats,,,Kansas State,Kansas State,,Kansas,44.0
+45,,Kent,MAC,United States,FBS,"39,300",1920,OAC,,Golden Flashes,,,Kent State,Kent State,,Ohio,45.0
+46,,Lexington,SEC,United States,FBS,"29,200",1881,"SIAA, SoCon",,Wildcats,,,Kentucky,Kentucky,,Kentucky,46.0
+47,,Lynchburg,FBS Independent,United States,FBS,"15,000",1973,Big South,2017,Flames,,,Liberty,Liberty,,Virginia,47.0
+48,,Lafayette,Sun Belt,United States,FBS,"19,200",1902,"Louisiana Intercollegiate Athletic Association, Louisiana Intercollegiate Conference, Gulf States Conference, SIAA, Southland, Big West",,Ragin' Cajuns,,,Louisiana,Louisiana,,Louisiana,48.0
+49,,Monroe,Sun Belt,United States,FBS,"8,800",1951,"Gulf States Conference, Southland, Independent",1994,Warhawks,,,La-Monroe,Louisiana–Monroe,,Louisiana,49.0
+50,,Ruston,C-USA,United States,FBS,"12,400",1901,"Louisiana Intercollegiate Athletic Association, Louisiana Intercollegiate Conference, Gulf States Conference, SIAA, Southland, Big West, WAC",1989,Bulldogs,,,Louisiana Tech,Louisiana Tech,,Louisiana,50.0
+51,,Louisville,ACC,United States,FBS,"22,600",1910,"KIAC, SIAA, KIAC, OVC, MVC, C-USA, Big East, American",,Cardinals,,,Louisville,Louisville,,Kentucky,51.0
+52,,Baton Rouge,SEC,United States,FBS,"30,800",1893,"SIAA, SoCon",,Tigers,,,LSU,LSU,,Louisiana,52.0
+53,,Huntington,C-USA,United States,FBS,"13,200",1895,"WVIAC, Buckeye Conference, OVC, MAC, SoCon",1997[n 1],Thundering Herd,,,Marshall,Marshall,,West Virginia,53.0
+54,,College Park,Big Ten,United States,FBS,"41,200",1888,"MIFA, SAIAA, SoCon, ACC",,Terrapins,,,Maryland,Maryland,,Maryland,54.0
+55,,Memphis,American,United States,FBS,"21,500",1912,"Mississippi Valley Conference, SIAA, MVC, C-USA[n 3]",,Tigers,,,Memphis,Memphis,,Tennessee,55.0
+56,,Coral Gables[n 4],ACC,United States,FBS,"17,300",1926[2],"SIAA, Big East",,Hurricanes,,,Miami (FL),Miami (FL),,Florida,56.0
+57,,Oxford,MAC,United States,FBS,"24,300",1888,"OAC, Buckeye Conference",,RedHawks,,,Miami (OH),Miami (OH),,Ohio,57.0
+58,,Ann Arbor,Big Ten,United States,FBS,"46,000",1879,,,Wolverines,,,Michigan,Michigan,,Michigan,58.0
+59,,East Lansing,Big Ten,United States,FBS,"50,300",1885,MIAA,,Spartans,,,Michigan State,Michigan State,,Michigan,59.0
+60,,Murfreesboro,C-USA,United States,FBS,"21,900",1911,"VSAC, SIAA, OVC, Sun Belt",1999,Blue Raiders,,,Middle Tenn. State,Middle Tennessee,,Tennessee,60.0
+61,,Minneapolis,Big Ten,United States,FBS,"47,800",1882,,,Golden Gophers,,,Minnesota,Minnesota,,Minnesota,61.0
+62,,Starkville,SEC,United States,FBS,"22,200",1895,"SIAA, SoCon",,Bulldogs,,,Mississippi State,Mississippi State,,Mississippi,62.0
+63,,Columbia,SEC,United States,FBS,"30,000",1890,"WIUFA, Big 8, Big 12",,Tigers,,,Missouri,Missouri,,Missouri,63.0
+64,,Annapolis,American,United States,FBS,"4,600",1879,Independent,,Midshipmen,,,Navy,Navy,,Maryland,64.0
+65,,Raleigh,ACC,United States,FBS,"35,500",1892,"SAIAA, SIAA, SoCon",,Wolfpack,,,North Carolina State,NC State,,North Carolina,65.0
+66,,Lincoln,Big Ten,United States,FBS,"25,800",1890,"WIUFA, MVC, Big 8, Big 12",,Cornhuskers,,,Nebraska,Nebraska,,Nebraska,66.0
+67,,Reno,Mountain West,United States,FBS,"21,600",1896,"NCAC, Big Sky, Big West, WAC",1992,Wolf Pack,,,Nevada,Nevada,,Nevada,67.0
+68,,Albuquerque,Mountain West,United States,FBS,"26,300",1892,"BIAA, WAC",,Lobos,,,New Mexico,New Mexico,,New Mexico,68.0
+69,,Las Cruces,Independent,United States,FBS,"21,900",1893,"BIAA, MVC, Big West, Sun Belt, WAC",,Aggies,,,New Mexico State,New Mexico State,,New Mexico,69.0
+70,,Chapel Hill,ACC,United States,FBS,"29,800",1888,"SAIAA, SIAA, SoCon",,Tar Heels,,,North Carolina,North Carolina,,North Carolina,70.0
+71,,Denton,C-USA,United States,FBS,"39,400",1913,"TIAA, Lone Star, Gulf Coast Conference, MVC, Southland, Big West, Sun Belt",1995,Mean Green,,,North Texas,North Texas,,Texas,71.0
+72,,DeKalb,MAC,United States,FBS,"20,000",1899,"IIAC, Big West",,Huskies,,,Northern Illinois,Northern Illinois,,Illinois,72.0
+73,,Evanston,Big Ten,United States,FBS,"21,200",1876,,,Wildcats,,,Northwestern,Northwestern,,Illinois,73.0
+74,,South Bend,Independent,United States,FBS,"12,300",1887,,,Fighting Irish,,,Notre Dame,Notre Dame,,Indiana,74.0
+75,,Athens,MAC,United States,FBS,"34,900",1894,"OAC, Buckeye Conference",,Bobcats,,,Ohio,Ohio,,Ohio,75.0
+76,,Columbus,Big Ten,United States,FBS,"68,100",1889,OAC,,Buckeyes,,,Ohio State,Ohio State,,Ohio,76.0
+77,,Norman,Big 12,United States,FBS,"28,500",1895,"Oklahoma Intercollegiate Conference, SWC, MVC, Big 8",,Sooners,,,Oklahoma,Oklahoma,,Oklahoma,77.0
+78,,Stillwater,Big 12,United States,FBS,"25,300",1901,"Oklahoma Intercollegiate Conference, SWC, MVC, Big 8",,Cowboys,,,Oklahoma State,Oklahoma State,,Oklahoma,78.0
+79,,Norfolk,C-USA,United States,FBS,"25,000",2009,CAA,2014,Monarchs,,,Old Dominion,Old Dominion,,Virginia,79.0
+80,,Oxford,SEC,United States,FBS,"23,200",1890,"SIAA, SoCon",,Rebels,,,Mississippi,Ole Miss,,Mississippi,80.0
+81,,Eugene,Pac-12,United States,FBS,"22,700",1894,"PCC, Independent",,Ducks,,,Oregon,Oregon,,Oregon,81.0
+82,,Corvallis,Pac-12,United States,FBS,"30,900",1893,"PCC, Independent",,Beavers,,,Oregon State,Oregon State,,Oregon,82.0
+83,,University Park,Big Ten,United States,FBS,"46,600",1881,,,Nittany Lions,,,Penn State,Penn State,,Pennsylvania,83.0
+84,,Pittsburgh,ACC,United States,FBS,"28,600",1890,Big East,,Panthers,,,Pittsburgh,Pittsburgh,,Pennsylvania,84.0
+85,,West Lafayette,Big Ten,United States,FBS,"43,400",1887,IIAA,,Boilermakers,,,Purdue,Purdue,,Indiana,85.0
+86,,Houston,C-USA,United States,FBS,"7,100",1912,"TIAA, SWC, WAC",,Owls,,,Rice,Rice,,Texas,86.0
+87,,Piscataway,Big Ten,United States,FBS,"70,900",1869,"Middle Atlantic, Big East, American",,Scarlet Knights,,,Rutgers,Rutgers,,New Jersey,87.0
+88,,San Diego,Mountain West,United States,FBS,"34,900",1921,"Southern California Junior College Conference, SCIAC, CCAA, Big West, WAC",1969,Aztecs,,,San Diego State,San Diego State,,California,88.0
+89,,San Jose,Mountain West,United States,FBS,"32,800",1892,"California Coast Conference, NCAC, California Collegiate, Big West, WAC",,Spartans,,,San Jose State,San Jose State,,California,89.0
+90,,University Park,American,United States,FBS,"11,800",1915,"TIAA, SWC, WAC, C-USA[n 3]",,Mustangs,,,SMU,SMU,,Texas,90.0
+91,,Mobile,Sun Belt,United States,FBS,"15,100",2009,,2012,Jaguars,,,South Alabama,South Alabama,,Alabama,91.0
+92,,Columbia,SEC,United States,FBS,"50,100",1892,"SIAA, SoCon, ACC",,Gamecocks,,,South Carolina,South Carolina,,South Carolina,92.0
+93,,Tampa,American,United States,FBS,"50,700",1997,"C-USA, Big East",2001,Bulls,,,South Florida,South Florida,,Florida,93.0
+94,,Hattiesburg,C-USA,United States,FBS,"14,500",1912,"Gulf States Conference, SIAA",,Golden Eagles,,,Southern Miss,Southern Miss,,Mississippi,94.0
+95,,Stanford,Pac-12,United States,FBS,"16,500",1891,PCC,,Cardinal,,,Stanford,Stanford,,California,95.0
+96,,Syracuse,ACC,United States,FBS,"22,900",1889,Big East,,Orange,,,Syracuse,Syracuse,,New York,96.0
+97,,Fort Worth,Big 12,United States,FBS,"10,400",1896,"TIAA, SWC, WAC, C-USA, MW",,Horned Frogs,,,TCU,TCU,,Texas,97.0
+98,,Philadelphia,American,United States,FBS,"40,000",1894,"Middle Atlantic, Big East, MAC, Big East",,Owls,,,Temple,Temple,,Pennsylvania,98.0
+99,,Knoxville,SEC,United States,FBS,"28,900",1891,"SIAA, SoCon",,Volunteers,,,Tennessee,Tennessee,,Tennessee,99.0
+100,,Austin,Big 12,United States,FBS,"51,800",1893,"SIAA, TIAA, SWC",,Longhorns,,,Texas,Texas,,Texas,100.0
+101,,College Station,SEC,United States,FBS,"69,400",1894,"SIAA, SWC, Big 12",,Aggies,,,Texas A&M,Texas A&M,,Texas,101.0
+102,,San Marcos,Sun Belt,United States,FBS,"38,800",1904,"TIAA, Lone Star, Gulf Star, Southland, WAC",2012,Bobcats,,,Texas State,Texas State,,Texas,102.0
+103,,Lubbock,Big 12,United States,FBS,"38,200",1925,"BIAA, SWC",,Red Raiders,,,Texas Tech,Texas Tech,,Texas,103.0
+104,,Toledo,MAC,United States,FBS,"23,100",1917,"Northwestern Ohio Intercollegiate Athletic Association, OAC",,Rockets,,,Toledo,Toledo,,Ohio,104.0
+105,,Troy,Sun Belt,United States,FBS,"18,100",1909,"Alabama Intercollegiate Conference, SIAA, Alabama Collegiate Conference, Mid-South Athletic Conference, Gulf South, Southland",2002,Trojans,,,Troy,Troy,,Alabama,105.0
+106,,New Orleans,American,United States,FBS,"14,100",1893,"SIAA, SoCon, SEC, C-USA",,Green Wave,,,Tulane,Tulane,,Louisiana,106.0
+107,,Tulsa,American,United States,FBS,"4,300",1895,"Oklahoma Intercollegiate Conference, Big 4 Conference, MVC, WAC, C-USA",,Golden Hurricane,,,Tulsa,Tulsa,,Oklahoma,107.0
+108,,Birmingham,C-USA,United States,FBS,"21,900",1991,,1999,Blazers,,,Ala-Birmingham,UAB,,Alabama,108.0
+109,,Orlando,American,United States,FBS,"68,600",1979,"MAC, C-USA",1996,Knights,,,Central Florida,UCF,,Florida,109.0
+110,,Los Angeles,Pac-12,United States,FBS,"45,400",1919,"SCIAC, PCC",,Bruins,,,UCLA,UCLA,,California,110.0
+111,,Storrs[n 5],American,United States,FBS,"32,200",1896,"Yankee, A-10, Big East",2000,Huskies,,,Connecticut,UConn,,Connecticut,111.0
+112,,Amherst,Independent,United States,FBS,"30,600",1879,"Yankee, A-10, CAA, MAC",2012,Minutemen,,,Massachusetts,UMass,,Massachusetts,112.0
+113,,Las Vegas[n 6],Mountain West,United States,FBS,"30,500",1968,"Big West, WAC",1978,Rebels,,,UNLV,UNLV,,Nevada,113.0
+114,,Los Angeles,Pac-12,United States,FBS,"45,700",1888,PCC,,Trojans,,,USC,USC,,California,114.0
+115,,El Paso,C-USA,United States,FBS,"25,100",1914,"BIAA, WAC",,Miners,,,Texas-El Paso,UTEP,,Texas,115.0
+116,,San Antonio,C-USA,United States,FBS,"30,700",2011,WAC,2012,Roadrunners,,,Texas-San Antonio,UTSA,,Texas,116.0
+117,,Salt Lake City,Pac-12,United States,FBS,"33,000",1892,"Colorado Football Association, RMAC, Mountain States, WAC, MW",,Utes,,,Utah,Utah,,Utah,117.0
+118,,Logan,Mountain West,United States,FBS,"29,400",1892,"Colorado Football Association, RMAC, Mountain States, Big West, Independent, Sun Belt, WAC",,Aggies,,,Utah State,Utah State,,Utah,118.0
+119,,Nashville,SEC,United States,FBS,"13,100",1890,"SIAA, SoCon",,Commodores,,,Vanderbilt,Vanderbilt,,Tennessee,119.0
+120,,Charlottesville,ACC,United States,FBS,"24,400",1888,"SAIAA, SoCon",,Cavaliers,,,Virginia,Virginia,,Virginia,120.0
+121,,Blacksburg,ACC,United States,FBS,"33,400",1892,"SAIAA, SIAA, SoCon, Big East",,Hokies,,,Virginia Tech,Virginia Tech,,Virginia,121.0
+122,,Winston-Salem,ACC,United States,FBS,"8,100",1888,"Big Five Conference, SoCon",,Demon Deacons,,,Wake Forest,Wake Forest,,North Carolina,122.0
+123,,Seattle,Pac-12,United States,FBS,"47,900",1889,PCC,,Huskies,,,Washington,Washington,,Washington,123.0
+124,,Pullman,Pac-12,United States,FBS,"30,600",1893,"PCC, Independent",,Cougars,,,Washington State,Washington State,,Washington,124.0
+125,,Morgantown,Big 12,United States,FBS,"30,000",1891,"SoCon, WVIAC, Big East",,Mountaineers,,,West Virginia,West Virginia,,West Virginia,125.0
+126,,Bowling Green,C-USA,United States,FBS,"20,300",1913,"SIAA, KIAC, OVC, MVFC, Sun Belt",2009,Hilltoppers,,,Western Kentucky,Western Kentucky,,Kentucky,126.0
+127,,Kalamazoo,MAC,United States,FBS,"22,900",1905,MCC,,Broncos,,,West. Michigan,Western Michigan,,Michigan,127.0
+128,,Madison,Big Ten,United States,FBS,"44,400",1889,,,Badgers,,,Wisconsin,Wisconsin,,Wisconsin,128.0
+129,,Laramie,Mountain West,United States,FBS,"12,400",1893,"Colorado Football Association, RMAC, WAC",,Cowboys,,,Wyoming,Wyoming,,Wyoming,129.0
+130,,Abilene,Southland,United States,FCS,,,,,Wildcats,,1919.0,Abilene Christian,Abilene Christian University,,Texas,130.0
+131,,Normal,SWAC,United States,FCS,,,,,Bulldogs,,1912.0,Alabama A&M,Alabama A&M University,,Alabama,131.0
+132,,Montgomery,SWAC,United States,FCS,,,,,Hornets,,1901.0,Alabama State,Alabama State University,,Alabama,132.0
+133,,Albany,CAA,United States,FCS,,,,,Great Danes,,1973.0,Albany (NY),"University at Albany, SUNY",,New York,133.0
+134,,Lorman,SWAC,United States,FCS,,,,,Braves,,1921.0,Alcorn State,Alcorn State University,,Mississippi,134.0
+135,,Pine Bluff,SWAC,United States,FCS,,,,,Golden Lions,,1916.0,Ark-Pine Bluff,University of Arkansas at Pine Bluff,,Arkansas,135.0
+136,,Clarksville,Ohio Valley,United States,FCS,,,,,Governors,,1930.0,Austin Peay State,Austin Peay State University,,Tennessee,136.0
+137,,Daytona Beach,MEAC,United States,FCS,,,,,Wildcats,,1925.0,Bethune-Cookman,Bethune–Cookman University,,Florida,137.0
+138,,Providence,Ivy,United States,FCS,,,,,Bears,,1878.0,Brown,Brown University,,Rhode Island,138.0
+139,,Smithfield,Northeast,United States,FCS,,,,,Bulldogs,,1999.0,Bryant,Bryant University,,Rhode Island,139.0
+140,,Lewisburg,Patriot,United States,FCS,,,,,Bison,,1883.0,Bucknell,Bucknell University,,Pennsylvania,140.0
+141,,Indianapolis,Pioneer,United States,FCS,,,,,Bulldogs,,1887.0,Butler,Butler University,,Indiana,141.0
+142,,San Luis Obispo,Big Sky,United States,FCS,,,,,Mustangs,,1915.0,Cal Poly-San Luis Obispo,California Polytechnic State University,,California,142.0
+143,,Buies Creek,Big South,United States,FCS,,,,,Fighting Camels,,19252008.0,Campbell,Campbell University,,North Carolina,143.0
+144,,Conway,Southland,United States,FCS,,,,,Bears,,1908.0,Central Arkansas,University of Central Arkansas,,Arkansas,144.0
+145,,New Britain,Northeast,United States,FCS,,,,,Blue Devils,,1935.0,Central Connecticut State,Central Connecticut State University,,Connecticut,145.0
+146,,North Charleston,Big South,United States,FCS,,,,,Buccaneers,,1985.0,Charleston Southern,Charleston Southern University,,South Carolina,146.0
+147,,Chattanooga,Southern,United States,FCS,,,,,Mocs,,1899.0,Tenn-Chattanooga,University of Tennessee at Chattanooga,,Tennessee,147.0
+148,,Charleston,Southern,United States,FCS,,,,,Bulldogs,,1905.0,The Citadel,"The Citadel, The Military College of South Carolina",,South Carolina,148.0
+149,,Hamilton,Patriot,United States,FCS,,,,,Raiders,,1890.0,Colgate,Colgate University,,New York,149.0
+150,,New York,Ivy,United States,FCS,,,,,Lions,,1870.0,Columbia,Columbia University,,New York,150.0
+151,,Ithaca,Ivy,United States,FCS,,,,,Big Red,,1887.0,Cornell,Cornell University,,New York,151.0
+152,,Hanover,Ivy,United States,FCS,,,,,Big Green,,1881.0,Dartmouth,Dartmouth College,,New Hampshire,152.0
+153,,Davidson,Pioneer,United States,FCS,,,,,Wildcats,,1896.0,Davidson College,Davidson College,,North Carolina,153.0
+154,,Dayton,Pioneer,United States,FCS,,,,,Flyers,,1903.0,Dayton,University of Dayton,,Ohio,154.0
+155,,Newark,CAA,United States,FCS,,,,,Fightin' Blue Hens,,1888.0,Delaware,University of Delaware,,Delaware,155.0
+156,,Dover,MEAC,United States,FCS,,,,,Hornets,,1924.0,Delaware State,Delaware State University,,Delaware,156.0
+157,,Des Moines,Pioneer,United States,FCS,,,,,Bulldogs,,1893.0,Drake,Drake University,,Iowa,157.0
+158,,Pittsburgh,Northeast,United States,FCS,,,,,Dukes,,1891.0,Duquesne,Duquesne University,,Pennsylvania,158.0
+159,,Johnson City,Southern,United States,FCS,,,,,Buccaneers,,19202015.0,East Tennessee State,East Tennessee State University,,Tennessee,159.0
+160,,Charleston,Ohio Valley,United States,FCS,,,,,Panthers,,1899.0,East. Illinois,Eastern Illinois University,,Illinois,160.0
+161,,Richmond,Ohio Valley,United States,FCS,,,,,Colonels,,1906.0,East. Kentucky,Eastern Kentucky University,,Kentucky,161.0
+162,,Cheney,Big Sky,United States,FCS,,,,,Eagles,,1901.0,East. Washington,Eastern Washington University,,Washington,162.0
+163,,Elon,CAA,United States,FCS,,,,,Phoenix,,1909.0,Elon,Elon University,,North Carolina,163.0
+164,,Tallahassee,MEAC,United States,FCS,,,,,Rattlers,,1907.0,Florida A&M,Florida A&M University,,Florida,164.0
+165,,New York,Patriot,United States,FCS,,,,,Rams,,1881.0,Fordham,Fordham University,,New York,165.0
+166,,Greenville,Southern,United States,FCS,,,,,Paladins,,1889.0,Furman,Furman University,,South Carolina,166.0
+167,,Boiling Springs,Big South,United States,FCS,,,,,Runnin' Bulldogs,,1946.0,Gardner-Webb,Gardner–Webb University,,North Carolina,167.0
+168,,Washington,Patriot,United States,FCS,,,,,Hoyas,,1881.0,Georgetown,Georgetown University,,D.C.,168.0
+169,,Grambling,SWAC,United States,FCS,,,,,Tigers,,1927.0,Grambling State,Grambling State University,,Louisiana,169.0
+170,,Hampton,Big South,United States,FCS,,,,,Pirates,,1902.0,Hampton,Hampton University,,Virginia,170.0
+171,,Cambridge[n 1],Ivy,United States,FCS,,,,,Crimson,,1873.0,Harvard,Harvard University,,Massachusetts,171.0
+172,,Worcester,Patriot,United States,FCS,,,,,Crusaders,,1891.0,College of the Holy Cross,College of the Holy Cross,,Massachusetts,172.0
+173,,Houston,Southland,United States,FCS,,,,,Huskies,,2013.0,Houston Baptist,Houston Baptist University,,Texas,173.0
+174,,Washington,MEAC,United States,FCS,,,,,Bison,,1882.0,Howard,Howard University,,D.C.,174.0
+175,,Moscow,Big Sky[n 2],United States,FCS,,,,,Vandals,,1893.0,Idaho,University of Idaho,,Idaho,175.0
+176,,Pocatello,Big Sky,United States,FCS,,,,,Bengals,,1902.0,Idaho State,Idaho State University,,Idaho,176.0
+177,,Normal,Missouri Valley,United States,FCS,,,,,Redbirds,,1887.0,Illinois State,Illinois State University,,Illinois,177.0
+178,,San Antonio,Southland,United States,FCS,,,,,Cardinals,,2009.0,the Incarnate Word,University of the Incarnate Word,,Texas,178.0
+179,,Terre Haute,Missouri Valley,United States,FCS,,,,,Sycamores,,1895.0,Indiana State,Indiana State University,,Indiana,179.0
+180,,Jackson,SWAC,United States,FCS,,,,,Tigers,,1911.0,Jackson State,Jackson State University,,Mississippi,180.0
+181,,Jacksonville,Pioneer,United States,FCS,,,,,Dolphins,,1998.0,Jacksonville,Jacksonville University,,Florida,181.0
+182,,Jacksonville,Ohio Valley,United States,FCS,,,,,Gamecocks,,1904.0,Jacksonville State,Jacksonville State University,,Alabama,182.0
+183,,Harrisonburg,CAA,United States,FCS,,,,,Dukes,,1972.0,James Madison,James Madison University,,Virginia,183.0
+184,,Kennesaw,Big South,United States,FCS,,,,,Owls,,2015.0,Kennesaw State,Kennesaw State University,,Georgia,184.0
+185,,Easton,Patriot,United States,FCS,,,,,Leopards,,1882.0,Lafayette College,Lafayette College,,Pennsylvania,185.0
+186,,Beaumont,Southland,United States,FCS,,,,,Cardinals,,19232009.0,Lamar,Lamar University,,Texas,186.0
+187,,Bethlehem,Patriot,United States,FCS,,,,,Mountain Hawks,,1884.0,Lehigh,Lehigh University,,Pennsylvania,187.0
+188,,Orono,CAA,United States,FCS,,,,,Black Bears,,1892.0,Maine,University of Maine,,Maine,188.0
+189,,Poughkeepsie,Pioneer,United States,FCS,,,,,Red Foxes,,1965.0,Marist,Marist College,,New York,189.0
+190,,Lake Charles,Southland,United States,FCS,,,,,Cowboys,,1950.0,McNeese State,McNeese State University,,Louisiana,190.0
+191,,Macon,Southern,United States,FCS,,,,,Bears,,18912013.0,Mercer,Mercer University,,Georgia,191.0
+192,,Itta Bena,SWAC,United States,FCS,,,,,Delta Devils,,1953.0,Mississippi Valley State,Mississippi Valley State University,,Mississippi,192.0
+193,,Springfield,Missouri Valley,United States,FCS,,,,,Bears,,1909.0,SW Missouri State,Missouri State UniversitySouthwest Missouri State,,Missouri,193.0
+194,,West Long Branch,Big South,United States,FCS,,,,,Hawks,,1993.0,Monmouth,Monmouth University,,New Jersey,194.0
+195,,Missoula,Big Sky,United States,FCS,,,,,Grizzlies,,1897.0,Montana,University of Montana,,Montana,195.0
+196,,Bozeman,Big Sky,United States,FCS,,,,,Bobcats,,1897.0,Montana State,Montana State University,,Montana,196.0
+197,,Morehead,Pioneer,United States,FCS,,,,,Eagles,,1924.0,Morehead State,Morehead State University,,Kentucky,197.0
+198,,Baltimore,MEAC,United States,FCS,,,,,Bears,,1897.0,Morgan State,Morgan State University,,Maryland,198.0
+199,,Murray,Ohio Valley,United States,FCS,,,,,Racers,,1924.0,Murray State,Murray State University,,Kentucky,199.0
+200,,Durham,CAA,United States,FCS,,,,,Wildcats,,1893.0,New Hampshire,University of New Hampshire,,New Hampshire,200.0
+201,,Thibodaux,Southland,United States,FCS,,,,,Colonels,,1972.0,Nicholls State,Nicholls State University,,Louisiana,201.0
+202,,Norfolk,MEAC,United States,FCS,,,,,Spartans,,1938.0,Norfolk State,Norfolk State University,,Virginia,202.0
+203,,Greensboro,MEAC,United States,FCS,,,,,Aggies,,1901.0,North Carolina A&T,North Carolina A&T State University,,North Carolina,203.0
+204,,Durham,MEAC,United States,FCS,,,,,Eagles,,1921.0,North Carolina Central,North Carolina Central University,,North Carolina,204.0
+205,,Grand Forks,Independent[1][2][n 4],United States,FCS,,,,,Fighting Hawks,,1894.0,North Dakota,University of North Dakota,,North Dakota,205.0
+206,,Fargo,Missouri Valley,United States,FCS,,,,,Bison,,1894.0,North Dakota State,North Dakota State University,,North Dakota,206.0
+207,,Flagstaff,Big Sky,United States,FCS,,,,,Lumberjacks,,1915.0,Northern Arizona,Northern Arizona University,,Arizona,207.0
+208,,Greeley,Big Sky,United States,FCS,,,,,Bears,,1892.0,Northern Colorado,University of Northern Colorado,,Colorado,208.0
+209,,Cedar Falls,Missouri Valley,United States,FCS,,,,,Panthers,,1895.0,Northern Iowa,University of Northern Iowa,,Iowa,209.0
+210,,Natchitoches,Southland,United States,FCS,,,,,Demons,,1907.0,NW State (LA),Northwestern State University,,Louisiana,210.0
+211,,Philadelphia,Ivy,United States,FCS,,,,,Quakers,,1876.0,Pennsylvania,University of Pennsylvania,,Pennsylvania,211.0
+212,,Portland,Big Sky,United States,FCS,,,,,Vikings,,1947.0,Portland State,Portland State University,,Oregon,212.0
+213,,Prairie View,SWAC,United States,FCS,,,,,Panthers,,1906.0,Prairie View,Prairie View A&M University,,Texas,213.0
+214,,Clinton,Big South[n 5],United States,FCS,,,,,Blue Hose,,1913.0,Presbyterian,Presbyterian College,,South Carolina,214.0
+215,,Princeton,Ivy,United States,FCS,,,,,Tigers,,1869.0,Princeton,Princeton University,,New Jersey,215.0
+216,,Kingston,CAA,United States,FCS,,,,,Rams,,1895.0,Rhode Island,University of Rhode Island,,Rhode Island,216.0
+217,,Richmond,CAA,United States,FCS,,,,,Spiders,,1881.0,Richmond,University of Richmond,,Virginia,217.0
+218,,Moon Township,Northeast,United States,FCS,,,,,Colonials,,1994.0,Robert Morris,Robert Morris University,,Pennsylvania,218.0
+219,,Sacramento,Big Sky,United States,FCS,,,,,Hornets,,1954.0,Sacramento State,"California State University, Sacramento",,California,219.0
+220,,Fairfield,Northeast,United States,FCS,,,,,Pioneers,,1991.0,Sacred Heart,Sacred Heart University,,Connecticut,220.0
+221,,Loretto,Northeast,United States,FCS,,,,,Red Flash,,1909.0,Saint Francis,Saint Francis University,,Pennsylvania,221.0
+222,,Huntsville,Southland,United States,FCS,,,,,Bearkats,,1912.0,Sam Houston State,Sam Houston State University,,Texas,222.0
+223,,Birmingham,Southern,United States,FCS,,,,,Bulldogs,,1902.0,Samford,Samford University,,Alabama,223.0
+224,,San Diego,Pioneer,United States,FCS,,,,,Toreros,,1956.0,San Diego,University of San Diego,,California,224.0
+225,,Orangeburg,MEAC,United States,FCS,,,,,Bulldogs,,1906.0,South Carolina State,South Carolina State University,,South Carolina,225.0
+226,,Vermillion,Missouri Valley,United States,FCS,,,,,Coyotes,,1889.0,South Dakota,University of South Dakota,,South Dakota,226.0
+227,,Brookings,Missouri Valley,United States,FCS,,,,,Jackrabbits,,1889.0,South Dakota State,South Dakota State University,,South Dakota,227.0
+228,,Cape Girardeau,Ohio Valley,United States,FCS,,,,,Redhawks,,1902.0,SE Missouri State,Southeast Missouri State University,,Missouri,228.0
+229,,Hammond,Southland,United States,FCS,,,,,Lions,,1930.0,SE Louisiana,Southeastern Louisiana University,,Louisiana,229.0
+230,,Baton Rouge,SWAC,United States,FCS,,,,,Jaguars,,1915.0,Southern,Southern University,,Louisiana,230.0
+231,,Carbondale,Missouri Valley,United States,FCS,,,,,Salukis,,1904.0,Southern Illinois,Southern Illinois University Carbondale,,Illinois,231.0
+232,,Cedar City,Big Sky,United States,FCS,,,,,Thunderbirds,,1929.0,Southern Utah,Southern Utah University,,Utah,232.0
+233,,Nacogdoches,Southland,United States,FCS,,,,,Lumberjacks,,1923.0,S.F. Austin,Stephen F. Austin State University,,Texas,233.0
+234,,DeLand,Pioneer,United States,FCS,,,,,Hatters,,1901.0,Stetson,Stetson University,,Florida,234.0
+235,,Stony Brook,CAA,United States,FCS,,,,,Seawolves,,1969.0,Stony Brook,Stony Brook University,,New York,235.0
+236,,Nashville,Ohio Valley,United States,FCS,,,,,Tigers,,1916.0,Tennessee State,Tennessee State University,,Tennessee,236.0
+237,,Cookeville,Ohio Valley,United States,FCS,,,,,Golden Eagles,,1917.0,Tennessee Tech,Tennessee Technological University,,Tennessee,237.0
+238,,Houston,SWAC,United States,FCS,,,,,Tigers,,1947.0,Texas Southern,Texas Southern University,,Texas,238.0
+239,,Towson,CAA,United States,FCS,,,,,Tigers,,1968.0,Towson,Towson University,,Maryland,239.0
+240,,Davis,Big Sky,United States,FCS,,,,,Aggies,,1915.0,California-Davis,"University of California, Davis",,California,240.0
+241,,Martin,Ohio Valley,United States,FCS,,,,,Skyhawks,,1953.0,Tenn-Martin,University of Tennessee at Martin,,Tennessee,241.0
+242,,Valparaiso,Pioneer,United States,FCS,,,,,Crusaders,,1906.0,Valparaiso,Valparaiso University,,Indiana,242.0
+243,,Villanova,CAA,United States,FCS,,,,,Wildcats,,1894.0,Villanova,Villanova University,,Pennsylvania,243.0
+244,,Lexington,Southern,United States,FCS,,,,,Keydets,,1873.0,Virginia Military Institute,Virginia Military Institute,,Virginia,244.0
+245,,New York,Northeast,United States,FCS,,,,,Seahawks,,1927.0,Wagner,Wagner College,,New York,245.0
+246,,Ogden,Big Sky,United States,FCS,,,,,Wildcats,,1962.0,Weber State,Weber State University,,Utah,246.0
+247,,Cullowhee,Southern,United States,FCS,,,,,Catamounts,,1931.0,West. Carolina,Western Carolina University,,North Carolina,247.0
+248,,Macomb,Missouri Valley,United States,FCS,,,,,Leathernecks,,1903.0,West. Illinois,Western Illinois University,,Illinois,248.0
+249,,Williamsburg,CAA,United States,FCS,,,,,Tribe,,1893.0,William & Mary,College of William & Mary,,Virginia,249.0
+250,,Spartanburg,Southern,United States,FCS,,,,,Terriers,,1889.0,Wofford College,Wofford College,,South Carolina,250.0
+251,,New Haven,Ivy,United States,FCS,,,,,Bulldogs,,1872.0,Yale,Yale University,,Connecticut,251.0
+252,,Youngstown,Missouri Valley,United States,FCS,,,,,Penguins,,1938.0,Youngstown State,Youngstown State University,,Ohio,252.0
+253,"6,000",Alamosa,RMAC,United States,DII,,,,,Grizzlies,,,Adams State,Adams State University,Rex Stadium,Colorado,253.0
+254,"11,000",Albany,SIAC,United States,DII,,,,,Golden Rams,,,Albany State (GA),Albany State University,Albany State University Coliseum,Georgia,254.0
+255,"2,000",Philippi,G-MAC,United States,DII,,,,,Battlers,,,Alderson Broaddus,Alderson Broaddus University,Multi-Sport Performance Stadium,West Virginia,255.0
+256,"4,000",Springfield,NE-10,United States,DII,,,,,Yellow Jackets,,,American International College,American International College,Ronald J. Abdow Field,Massachusetts,256.0
+257,"5,670",San Angelo,LSC,United States,DII,,,,,Rams,,,Angelo State (TX),Angelo State University,LeGrand Stadium at 1st Community Credit Union Field,Texas,257.0
+258,"6,500",Russellville,GAC,United States,DII,,,,,Wonder Boys,,,Arkansas Tech,Arkansas Tech University,Thone Stadium at Buerkle Field,Arkansas,258.0
+259,"5,000",Monticello,GAC,United States,DII,,,,,Boll Weevils,,,Arkansas A&M,University of Arkansas at Monticello,Willis Convoy Leslie Cotton Boll Stadium,Arkansas,259.0
+260,"6,000",Ashland,GLIAC,United States,DII,,,,,Eagles,,,Ashland,Ashland University,Jack Miller Stadium,Ohio,260.0
+261,"1,200",Worcester,NE-10,United States,DII,,,,,Greyhounds,,,Assumption College,Assumption College,Greyhound Stadium,Massachusetts,261.0
+262,"6,500",Sioux Falls,NSIC,United States,DII,,,,,Vikings,,,Augustana,Augustana University,Kirkeby–Over Stadium,South Dakota,262.0
+263,"10,000",Azusa,GNAC,United States,DII,,,,,Cougars,[D2 1],,Azusa Pacific,Azusa Pacific University,Citrus Stadium,California,263.0
+264,"4,000",Bemidji,NSIC,United States,DII,,,,,Beavers,,,Bemidji State,Bemidji State University,Chet Anderson Stadium,Minnesota,264.0
+265,"11,000",Columbia,SIAC,United States,DII,,,,,Tigers,,,Benedict College,Benedict College,Charlie W. Johnson Stadium,South Carolina,265.0
+266,"3,100",Waltham,NE-10,United States,DII,,,,,Falcons,,,Bentley College,Bentley University,Bentley Athletic Field,Massachusetts,266.0
+267,"4,200",Spearfish,RMAC,United States,DII,,,,,Yellow Jackets,,,Black Hills State,Black Hills State University,Lyle Hare Stadium,South Dakota,267.0
+268,"4,775",Bloomsburg,PSAC,United States,DII,,,,,Huskies,,,Bloomsburg,Bloomsburg University of Pennsylvania,Robert B. Redman Stadium,Pennsylvania,268.0
+269,"2,964",Bowie,CIAA,United States,DII,,,,,Bulldogs,,,Bowie State,Bowie State University,Bulldog Stadium,Maryland,269.0
+270,"6,500",California,PSAC,United States,DII,,,,,Vulcans,,,California (PA),California University of Pennsylvania,Hepner–Bailey Field at Adamson Stadium,Pennsylvania,270.0
+271,"5,500",Jefferson City,SAC,United States,DII,,,,,Eagles,,,Carson-Newman,Carson–Newman University,Burke–Tarr Stadium,Tennessee,271.0
+272,"4,500",Salisbury,SAC,United States,DII,,,,,Indians,,,Catawba College,Catawba College,Shuford Stadium,North Carolina,272.0
+273,"10,000",Warrensburg,MIAA,United States,DII,,,,,Mules,,,Central Missouri State,University of Central Missouri,Audrey J. Walton Stadium,Missouri,273.0
+274,"10,000",Edmond,MIAA,United States,DII,,,,,Bronchos,,,Central Oklahoma,University of Central Oklahoma,Wantland Stadium,Oklahoma,274.0
+275,"7,000",Wilberforce,SIAC,United States,DII,,,,,Marauders,,,Central State,Central State University,McPherson Stadium,Ohio,275.0
+276,"4,000",Ellensburg,GNAC,United States,DII,,,,,Wildcats,,,Central Washington,Central Washington University,Tomlinson Stadium,Washington,276.0
+277,"3,800",Chadron,RMAC,United States,DII,,,,,Eagles,,,Chadron State,Chadron State College,Elliot Field,Nebraska,277.0
+278,"22,500",Charleston,MEC,United States,DII,,,,,Golden Eagles,,,Charleston (WV),University of Charleston,University of Charleston Stadium,West Virginia,278.0
+279,"5,000",Murfreesboro,CIAA,United States,DII,,,,,Hawks,[D2 2],,Chowan,Chowan University,Garrison Stadium,North Carolina,279.0
+280,"5,000",Clarion,PSAC,United States,DII,,,,,Golden Eagles,,,Clarion,Clarion University of Pennsylvania,Memorial Field,Pennsylvania,280.0
+281,"6,000",Atlanta,SIAC,United States,DII,,,,,Panthers,,,Clark Atlanta,Clark Atlanta University,Panther Stadium,Georgia,281.0
+282,"8,000",Grand Junction,RMAC,United States,DII,,,,,Mavericks,,,Colorado Mesa,Colorado Mesa University,Stocker Stadium,Colorado,282.0
+283,"4,000",Golden,RMAC,United States,DII,,,,,Orediggers,,,Colorado School of Mines,Colorado School of Mines,Harry D. Campbell Field,Colorado,283.0
+284,"6,500",Pueblo,RMAC,United States,DII,,,,,ThunderWolves,,,Colorado Pueblo,Colorado State University–Pueblo,Neta and Eddie DeRose ThunderBowl,Colorado,284.0
+285,"5,000",Athens,MEC,United States,DII,,,,,Mountain Lions,,,Concord,Concord University,Callaghan Stadium,West Virginia,285.0
+286,"3,500",St. Paul,NSIC,United States,DII,,,,,Golden Bears,,,Concordia-StatePaul (MN),Concordia University–St. Paul,Sea Foam Stadium,Minnesota,286.0
+287,"2,300",Grand Rapids,GLIAC,United States,DII,,,,,Panthers,,,Davenport,Davenport University,Meyering Field,Michigan,287.0
+288,"8,000",Cleveland,Gulf South,United States,DII,,,,,Statesmen,,,Delta State,Delta State University,Parker Field at McCool Stadium,Mississippi,288.0
+289,"10,000",St. George,RMAC,United States,DII,,,,,Trailblazers,[D2 3],,Dixie State,Dixie State University,Trailblazer Stadium,Utah,289.0
+290,"5,000",Ada,GAC,United States,DII,,,,,Tigers,,,East Central (OK),East Central University,Norris Field,Oklahoma,290.0
+291,"6,000",East Stroudsburg,PSAC,United States,DII,,,,,Warriors,,,East Stroudsburg Pennsylvania,East Stroudsburg University of Pennsylvania,Eiler-Martin Stadium,Pennsylvania,291.0
+292,"5,200",Portales,LSC,United States,DII,,,,,Greyhounds,,,Eastern New Mexico,Eastern New Mexico University,Greyhound Stadium,New Mexico,292.0
+293,"6,000",Edinboro,PSAC,United States,DII,,,,,Fighting Scots,,,Edinboro Pennsylvania,Edinboro University of Pennsylvania,Sox Harrison Stadium,Pennsylvania,293.0
+294,"6,500",Elizabeth City,CIAA,United States,DII,,,,,Vikings,,,Elizabeth City State,Elizabeth City State University,Roebuck Stadium,North Carolina,294.0
+295,"7,000",Emporia,MIAA,United States,DII,,,,,Hornets,,,Emporia State,Emporia State University,Francis G. Welch Stadium,Kansas,295.0
+296,"5,000",Fairmont,MEC,United States,DII,,,,,Falcons,,,Fairmont State,Fairmont State University,Duvall-Rosier Field,West Virginia,296.0
+297,"5,520",Fayetteville,CIAA,United States,DII,,,,,Broncos,,,Fayetteville State,Fayetteville State University,"Luther ""Nick"" Jeralds Stadium",North Carolina,297.0
+298,"6,200",Big Rapids,GLIAC,United States,DII,,,,,Bulldogs,,,Ferris State,Ferris State University,Top Taggart Field,Michigan,298.0
+299,"7,500",Findlay,G-MAC,United States,DII,,,,,Oilers,,,Findlay,University of Findlay,Donnell Stadium,Ohio,299.0
+300,"4,980",Melbourne,Gulf South,United States,DII,,,,,Panthers,[D2 4],,Florida Institute of Technology,Florida Institute of Technology,Florida Tech Panther Stadium,Florida,300.0
+301,"6,100",Hays,MIAA,United States,DII,,,,,Tigers,,,Fort Hays State,Fort Hays State University,Lewis Field Stadium,Kansas,301.0
+302,"4,000",Durango,RMAC,United States,DII,,,,,Skyhawks,,,Fort Lewis College,Fort Lewis College,Ray Dennison Memorial Field,Colorado,302.0
+303,"10,000",Fort Valley,SIAC,United States,DII,,,,,Wildcats,,,Fort Valley State,Fort Valley State University,Wildcat Stadium,Georgia,303.0
+304,,Rindge,NE-10,United States,DII,,,,,Ravens,,,Franklin Pierce,Franklin Pierce University,Sodexo Field,New Hampshire,304.0
+305,,Frostburg,MEC,United States,DII,,,,,Bobcats,[D2 5],,Frostburg State,Frostburg State University,Bobcat Stadium,Maryland,305.0
+306,"2,500",Erie,PSAC,United States,DII,,,,,Golden Knights,,,Gannon,Gannon University,Gannon Field,Pennsylvania,306.0
+307,"5,500",Glenville,MEC,United States,DII,,,,,Pioneers,,,Glenville State College,Glenville State College,Morris Stadium,West Virginia,307.0
+308,"10,700",Allendale,GLIAC,United States,DII,,,,,Lakers,,,Grand Valley State,Grand Valley State University,Lubbers Stadium,Michigan,308.0
+309,"6,500",Searcy,GAC,United States,DII,,,,,Bisons,,,Harding,Harding University,First Security Stadium,Arkansas,309.0
+310,"9,600",Arkadelphia,GAC,United States,DII,,,,,Reddies,,,Henderson State,Henderson State University,Carpenter-Haygood Stadium at Ruggles Field,Arkansas,310.0
+311,"8,500",Hillsdale,G-MAC,United States,DII,,,,,Chargers,,,Hillsdale,Hillsdale College,"Frank ""Muddy"" Waters Stadium",Michigan,311.0
+312,"6,000",Indiana,PSAC,United States,DII,,,,,Crimson Hawks,,,Indiana (PA),Indiana University of Pennsylvania,Frank Cignetti Field at George P. Miller Stadium,Pennsylvania,312.0
+313,"5,500",Indianapolis,GLVC,United States,DII,,,,,Greyhounds,,,Indianapolis,University of Indianapolis,Key Stadium,Indiana,313.0
+314,"4,500",Charlotte,CIAA,United States,DII,,,,,Golden Bulls,,,Johnson C. Smith,Johnson C. Smith University,Irwin Belk Complex,North Carolina,314.0
+315,"5,000",Frankfort,SIAC,United States,DII,,,,,Thorobreds,,,Kentucky State,Kentucky State University,Alumni Field,Kentucky,315.0
+316,"3,000",Owensboro,G-MAC,United States,DII,,,,,Panthers,,,Kentucky Wesleyan College,Kentucky Wesleyan College,Steele Stadium,Kentucky,316.0
+317,"5,600",Kutztown,PSAC,United States,DII,,,,,Golden Bears,,,Kutztown Pennsylvania,Kutztown University of Pennsylvania,University Field at Andre Reed Stadium,Pennsylvania,317.0
+318,"2,500",Painesville,G-MAC,United States,DII,,,,,Storm,,,Lake Erie College,Lake Erie College,Jack Britt Memorial Stadium,Ohio,318.0
+319,"3,500",Jackson,SIAC,United States,DII,,,,,Dragons,,,Lane,Lane College,Rothrock Stadium,Tennessee,319.0
+320,"8,500",Hickory,SAC,United States,DII,,,,,Bears,,,Lenoir-Rhyne,Lenoir–Rhyne University,Moretz Stadium,North Carolina,320.0
+321,"8,250",Gaffney,SAC,United States,DII,,,,,Saints,[D2 6],,Limestone College,Limestone College,The Reservation,South Carolina,321.0
+322,"3,000",Jefferson City,MIAA,United States,DII,,,,,Blue Tigers,[D2 7],,Lincoln  (MO),Lincoln University (MO),Dwight T. Reed Stadium,Missouri,322.0
+323,"2,600",Lower Oxford,CIAA,United States,DII,,,,,Lions,,,Lincoln  (PA),Lincoln University (PA),Lincoln Stadium,Pennsylvania,323.0
+324,"7,450",St. Charles,GLVC,United States,DII,,,,,Lions,,,Lindenwood,Lindenwood University,Harlen C. Hunter Stadium,Missouri,324.0
+325,"5,500",Salisbury,CIAA,United States,DII,,,,,Blue Bears,,,Livingstone,Livingstone College,Alumni Memorial Stadium,North Carolina,325.0
+326,"3,500",Lock Haven,PSAC,United States,DII,,,,,Bald Eagles,,,Lock Haven Pennsylvania,Lock Haven University of Pennsylvania,Hubert Jack Stadium,Pennsylvania,326.0
+327,"5,000",Mars Hill,SAC,United States,DII,,,,,Lions,,,Mars Hill,Mars Hill University,Meares Stadium,North Carolina,327.0
+328,"7,000",Bismarck,NSIC,United States,DII,,,,,Marauders,,,Mary,University of Mary,Bismarck Community Bowl,North Dakota,328.0
+329,"2,000",Lebanon,GLVC,United States,DII,,,,,Bearcats,,,McKendree,McKendree University,Leemon Stadium,Illinois,329.0
+330,"2,300",Erie,PSAC,United States,DII,,,,,Lakers,,,Mercyhurst,Mercyhurst University,Louis J. Tullio Field,Pennsylvania,330.0
+331,"3,000",Houghton,GLIAC,United States,DII,,,,,Huskies,,,Michigan Tech,Michigan Technological University,Sherman Field,Michigan,331.0
+332,"14,500",Wichita Falls,LSC,United States,DII,,,,,Mustangs,,,Midwestern State,Midwestern State University,Memorial Stadium,Texas,332.0
+333,"8,500",Fairfield,SIAC,United States,DII,,,,,Golden Bears,,,Miles College,Miles College,Albert J. Sloan–Alumni Stadium,Alabama,333.0
+334,"6,500",Millersville,PSAC,United States,DII,,,,,Marauders,,,Millersville Pennsylvania,Millersville University of Pennsylvania,Biemesderfer Stadium,Pennsylvania,334.0
+335,"7,500",Mankato,NSIC,United States,DII,,,,,Mavericks,,,"Minnesota State , Mankato","Minnesota State University, Mankato",Blakeslee Stadium,Minnesota,335.0
+336,"5,000",Moorhead,NSIC,United States,DII,,,,,Dragons,,,Minnesota State  Moorhead,Minnesota State University Moorhead,Alex Nemzek Stadium,Minnesota,336.0
+337,"2,000",Crookston,NSIC,United States,DII,,,,,Eagles,,,Minnesota Crookston,University of Minnesota Crookston,Ed Widseth Field,Minnesota,337.0
+338,"4,000",Duluth,NSIC,United States,DII,,,,,Bulldogs,,,Minnesota Duluth,University of Minnesota Duluth,Griggs Field at James S. Malosky Stadium,Minnesota,338.0
+339,"4,500",Minot,NSIC,United States,DII,,,,,Beavers,,,Minot State,Minot State University,Herb Parker Stadium,North Dakota,339.0
+340,"8,500",Clinton,Gulf South,United States,DII,,,,,Choctaws,,,Mississippi College,Mississippi College,Robinson-Hale Stadium,Mississippi,340.0
+341,"8,000",Rolla,GLVC,United States,DII,,,,,Miners,,,Missouri Science and Technology,Missouri University of Science and Technology,Allgood-Bailey Stadium,Missouri,341.0
+342,"7,000",Joplin,MIAA,United States,DII,,,,,Lions,,,Missouri Southern,Missouri Southern State University,Fred G. Hughes Stadium,Missouri,342.0
+343,"7,500",St. Joseph,MIAA,United States,DII,,,,,Griffons,,,Missouri Western State,Missouri Western State University,Spratt Stadium,Missouri,343.0
+344,"9,850",Atlanta,SIAC,United States,DII,,,,,Maroon Tigers,,,Morehouse,Morehouse College,B. T. Harvey Stadium,Georgia,344.0
+345,"6,000",Kearney,MIAA,United States,DII,,,,,Lopers,,,Nebraska at Kearney,University of Nebraska at Kearney,Ron & Carol Cope Stadium,Nebraska,345.0
+346,"3,500",West Haven,NE-10,United States,DII,,,,,Chargers,,,New Haven,University of New Haven,Ralph F. DellaCamera Stadium,Connecticut,346.0
+347,"5,000",Las Vegas,RMAC,United States,DII,,,,,Cowboys,,,New Mexico Highlands,New Mexico Highlands University,Perkins Stadium,New Mexico,347.0
+348,"4,000",Newberry,SAC,United States,DII,,,,,Wolves,,,Newberry,Newberry College,Setzler Field,South Carolina,348.0
+349,"2,500",Pembroke,Independent,United States,DII,,,,,Braves,[D2 8],,North Carolina at Pembroke,University of North Carolina at Pembroke,Grace P. Johnson Stadium,North Carolina,349.0
+350,"5,000",Tigerville,Gulf South,United States,DII,,,,,Crusaders,[D2 9],,North Greenville,North Greenville University,Younts Stadium,South Carolina,350.0
+351,"8,300",Tahlequah,MIAA,United States,DII,,,,,RiverHawks,,,Northeastern State,Northeastern State University,Doc Wadley Stadium,Oklahoma,351.0
+352,"8,000",Marquette,GLIAC,United States,DII,,,,,Wildcats,,,Northern Michigan,Northern Michigan University,Superior Dome,Michigan,352.0
+353,"6,000",Aberdeen,NSIC,United States,DII,,,,,Wolves,,,Northern State,Northern State University,Swisher Field,South Dakota,353.0
+354,"6,500",Maryville,MIAA,United States,DII,,,,,Bearcats,,,NW Missouri State,Northwest Missouri State University,Bearcat Stadium,Missouri,354.0
+355,"6,000",Alva,GAC,United States,DII,,,,,Rangers,,,NW Oklahoma State,Northwestern Oklahoma State University,Ranger Field,Oklahoma,355.0
+356,"3,000",Midland,GLIAC,United States,DII,,,,,Timberwolves,,,Northwood,Northwood University,Hantz Stadium,Michigan,356.0
+357,"3,000",South Euclid,MEC,United States,DII,,,,,Falcons,,,Notre Dame College,Notre Dame College,Korb Field,Ohio,357.0
+358,"1,750",Columbus,G-MAC,United States,DII,,,,,Panthers,,,Ohio Dominican,Ohio Dominican University,Panther Field,Ohio,358.0
+359,"2,500",Shawnee,GAC,United States,DII,,,,,Bison,,,Oklahoma Baptist,Oklahoma Baptist University,Crain Family Stadium,Oklahoma,359.0
+360,"5,225",Arkadelphia,GAC,United States,DII,,,,,Tigers,,,Ouachita Baptist,Ouachita Baptist University,Cliff Harris Stadium,Arkansas,360.0
+361,"1,500",Pleasantville,NE-10,United States,DII,,,,,Setters,,,Pace,Pace University,Pace Field,New York,361.0
+362,"8,344",Pittsburg,MIAA,United States,DII,,,,,Gorillas,,,Pittsburg State,Pittsburg State University,Carnie Smith Stadium,Kansas,362.0
+363,"4,000",Quincy,GLVC,United States,DII,,,,,Hawks,,,Quincy,Quincy University,Flinn Stadium,Illinois,363.0
+364,"6,300",University Center,GLIAC,United States,DII,,,,,Cardinals,,,Saginaw Valley State,Saginaw Valley State University,Wickes Memorial Stadium,Michigan,364.0
+365,"4,500",Goffstown,NE-10,United States,DII,,,,,Hawks,,,Saint Anselm College,Saint Anselm College,Grappone Stadium,New Hampshire,365.0
+366,"2,500",Raleigh,CIAA,United States,DII,,,,,Falcons,,,Saint Augustine's,Saint Augustine's University,George Williams Athletic Complex,North Carolina,366.0
+367,"4,198",St. Cloud,NSIC,United States,DII,,,,,Huskies,,,St. Cloud State,St. Cloud State University,Husky Stadium,Minnesota,367.0
+368,"8,500",Savannah,SIAC,United States,DII,,,,,Tigers,[D2 10],,Savannah State,Savannah State University,Theodore A. Wright Stadium,Georgia,368.0
+369,"5,000",Greensburg,PSAC,United States,DII,,,,,Griffins,,,Seton Hill,Seton Hill University,Offutt Field,Pennsylvania,369.0
+370,"8,500",Raleigh,CIAA,United States,DII,,,,,Bears,,,Shaw,Shaw University,Durham County Stadium,North Carolina,370.0
+371,"5,000",Shepherdstown,PSAC,United States,DII,,,,,Rams,,,Shepherd,Shepherd University,Ram Stadium,West Virginia,371.0
+372,"7,700",Shippensburg,PSAC,United States,DII,,,,,Red Raiders,,,Shippensburg Pennsylvania,Shippensburg University of Pennsylvania,Seth Grove Stadium,Pennsylvania,372.0
+373,"6,500",Rome,Gulf South,United States,DII,,,,,Hawks,,,Shorter,Shorter University,Barron Stadium,Georgia,373.0
+374,"4,200",Burnaby,GNAC,United States,DII,,,,,Clan,,,Simon Fraser,Simon Fraser University,Swangard Stadium,British Columbia,374.0
+375,"5,400",Sioux Falls,NSIC,United States,DII,,,,,Cougars,,,Sioux Falls,University of Sioux Falls,Bob Young Field,South Dakota,375.0
+376,"10,000",Slippery Rock,PSAC,United States,DII,,,,,The Rock,,,Slippery Rock,Slippery Rock University of Pennsylvania,N. Kerr Thompson Stadium,Pennsylvania,376.0
+377,"4,000",Rapid City,RMAC,United States,DII,,,,,Hardrockers,,,South Dakota School of Mines and Technology,South Dakota School of Mines and Technology,Dunham Field at O'Harra Stadium,South Dakota,377.0
+378,"9,000",Durant,GAC,United States,DII,,,,,Savage Storm,,,Southeastern Oklahoma State,Southeastern Oklahoma State University,Paul Laird Field,Oklahoma,378.0
+379,"6,000",Magnolia,GAC,United States,DII,,,,,Muleriders,,,Southern Arkansas,Southern Arkansas University,Wilkins Stadium,Arkansas,379.0
+380,"6,000",New Haven,NE-10,United States,DII,,,,,Fighting Owls,,,Southern Connecticut State,Southern Connecticut State University,Jess Dow Field,Connecticut,380.0
+381,"2,500",Bethany,GAC,United States,DII,,,,,Crimson Storm,,,Southern Nazarene,Southern Nazarene University,SNU Stadium,Oklahoma,381.0
+382,"2,500",Bolivar,GLVC,United States,DII,,,,,Bearcats,,,Southwest Baptist,Southwest Baptist University,Plaster Stadium,Missouri,382.0
+383,"3,500",Marshall,NSIC,United States,DII,,,,,Mustangs,,,Southwest Minnesota State,Southwest Minnesota State University,Mattke Field at the Regional Events Center,Minnesota,383.0
+384,"8,600",Weatherford,GAC,United States,DII,,,,,Bulldogs,,,Southwestern Oklahoma State,Southwestern Oklahoma State University,ASAP Energy Field at Milam Stadium,Oklahoma,384.0
+385,"2,400",Easton,NE-10,United States,DII,,,,,Skyhawks,,,Stonehill College,Stonehill College,W.B. Mason Stadium,Massachusetts,385.0
+386,"7,000",Stephenville,LSC,United States,DII,,,,,Texans,,,Tarleton State,Tarleton State University,Memorial Stadium,Texas,386.0
+387,"13,500",Commerce,LSC,United States,DII,,,,,Lions,,,Texas A&M-Commerce,Texas A&M University–Commerce,Memorial Stadium,Texas,387.0
+388,"15,000",Kingsville,LSC,United States,DII,,,,,Javelinas,,,Texas A&M-Kingsville,Texas A&M University–Kingsville,Javelina Stadium,Texas,388.0
+389,"19,302",Odessa,LSC,United States,DII,,,,,Falcons,,,Texas of the Permian Basin,University of Texas of the Permian Basin,Ratliff Stadium,Texas,389.0
+390,"4,500",Tiffin,G-MAC,United States,DII,,,,,Dragons,,,Tiffin,Tiffin University,Frost-Kalnow Stadium,Ohio,390.0
+391,"4,000",Kirksville,GLVC,United States,DII,,,,,Bulldogs,,,Truman State,Truman State University,Stokes Stadium,Missouri,391.0
+392,"3,500",Tusculum,SAC,United States,DII,,,,,Pioneers,,,Tusculum,Tusculum University,Pioneer Field,Tennessee,392.0
+393,"10,000",Tuskegee,SIAC,United States,DII,,,,,Golden Tigers,,,Tuskegee,Tuskegee University,Abbott Memorial Alumni Stadium,Alabama,393.0
+394,"3,500",Fayette,NSIC,United States,DII,,,,,Peacocks,,,Upper Iowa,Upper Iowa University,Eischeid Stadium,Iowa,394.0
+395,"3,000",Urbana,MEC,United States,DII,,,,,Blue Knights,,,Urbana,Urbana University,Urbana University Stadium,Ohio,395.0
+396,"11,211",Valdosta,Gulf South,United States,DII,,,,,Blazers,,,Valdosta State,Valdosta State University,Bazemore–Hyder Stadium,Georgia,396.0
+397,"7,909",Ettrick,CIAA,United States,DII,,,,,Trojans,,,Virginia State,Virginia State University,Rogers Stadium,Virginia,397.0
+398,"10,000",Richmond,CIAA,United States,DII,,,,,Panthers,,,Virginia Union,Virginia Union University,Hovey Field,Virginia,398.0
+399,"3,100",Wise,SAC,United States,DII,,,,,Cavaliers,,,Virginia's College at Wise,University of Virginia's College at Wise,Carl Smith Stadium,Virginia,399.0
+400,"23,000",Canton,G-MAC,United States,DII,,,,,Cavaliers,,,Walsh,Walsh University,Tom Benson Hall of Fame Stadium,Ohio,400.0
+401,"7,250",Topeka,MIAA,United States,DII,,,,,Ichabods,,,Washburn,Washburn University,Yager Stadium at Moore Bowl,Kansas,401.0
+402,"6,000",Detroit,GLIAC,United States,DII,,,,,Warriors,,,Wayne State,Wayne State University,Tom Adams Field,Michigan,402.0
+403,"3,500",Wayne,NSIC,United States,DII,,,,,Wildcats,,,Wayne State College,Wayne State College,Memorial Stadium,Nebraska,403.0
+404,"7,000",Livingston,Gulf South,United States,DII,,,,,Tigers,,,West Alabama,University of West Alabama,Tiger Stadium,Alabama,404.0
+405,"7,500",West Chester,PSAC,United States,DII,,,,,Golden Rams,,,West Chester,West Chester University,John A. Farrell Stadium,Pennsylvania,405.0
+406,"5,083",Pensacola,Gulf South,United States,DII,,,,,Argonauts,,,West Florida,University of West Florida,Blue Wahoos Stadium,Florida,406.0
+407,"13,733",Carrollton,Gulf South,United States,DII,,,,,Wolves,,,West Georgia,University of West Georgia,University Stadium,Georgia,407.0
+408,"3,200",West Liberty,MEC,United States,DII,,,,,Hilltoppers,,,West Liberty,West Liberty University,West Family Stadium,West Virginia,408.0
+409,"20,000",Canyon,LSC,United States,DII,,,,,Buffaloes,,,West Texas A&M,West Texas A&M University,Kimbrough Memorial Stadium,Texas,409.0
+410,"5,000",Institute,MEC,United States,DII,,,,,Yellow Jackets,,,West Virginia State,West Virginia State University,Lakin Field,West Virginia,410.0
+411,"3,000",Buckhannon,MEC,United States,DII,,,,,Bobcats,,,West Virginia Wesleyan College,West Virginia Wesleyan College,Cebe Ross Field,West Virginia,411.0
+412,"4,000",Gunnison,RMAC,United States,DII,,,,,Mountaineers,,,Western Colorado,Western Colorado University,Mountaineer Bowl,Colorado,412.0
+413,"3,000",Silver City,LSC,United States,DII,,,,,Mustangs,,,West. New Mexico,Western New Mexico University,Ben Altamirano Memorial Stadium,New Mexico,413.0
+414,"2,500",Monmouth,GNAC,United States,DII,,,,,Wolves,,,Western Oregon,Western Oregon University,McArthur Field,Oregon,414.0
+415,,Wheeling,MEC,United States,DII,,,,,Cardinals,[1],,Wheeling,Wheeling University,Bishop Schmitt Field,West Virginia,415.0
+416,"7,000",Liberty,GLVC,United States,DII,,,,,Cardinals,,,William Jewell College,William Jewell College,Greene Stadium,Missouri,416.0
+417,"3,000",Wingate,SAC,United States,DII,,,,,Bulldogs,,,Wingate,Wingate University,Irwin Belk Stadium,North Carolina,417.0
+418,"3,500",Winona,NSIC,United States,DII,,,,,Warriors,,,Winona State,Winona State University,Maxwell Field at Warrior Stadium,Minnesota,418.0
+419,"22,000",Winston–Salem,CIAA,United States,DII,,,,,Rams,,,Winston-Salem State,Winston–Salem State University,Bowman Gray Stadium,North Carolina,419.0
+420,,Adrian,MIAA,United States,DIII,,,,,Bulldogs,,,Adrian,Adrian,,Michigan,420.0
+421,,Albion,MIAA,United States,DIII,,,,,Britons,,,Albion,Albion,,Michigan,421.0
+422,,Reading,MAC,United States,DIII,,,,,Lions,,,Albright,Albright,,Pennsylvania,422.0
+423,,Alfred,Empire 8,United States,DIII,,,,,Saxons,,,Alfred,Alfred,,New York,423.0
+424,,Alfred,ECFC,United States,DIII,,,,,Pioneers,,,Alfred State,Alfred State,,New York,424.0
+425,,Meadville,NCAC,United States,DIII,,,,,Gators,,,Allegheny,Allegheny,,Pennsylvania,425.0
+426,,Alma,MIAA,United States,DIII,,,,,Scots,,,Alma,Alma,,Michigan,426.0
+427,,Reading,MAC,United States,DIII,,,,,Golden Wolves,,,Alvernia,Alvernia,,Pennsylvania,427.0
+428,,Amherst,NESCAC,United States,DIII,,,,,Mammoths,,,Amherst,Amherst,,Massachusetts,428.0
+429,,Anderson,HCAC,United States,DIII,,,,,Ravens,,,Anderson,Anderson,,Indiana,429.0
+430,,Paxton,ECFC,United States,DIII,,,,,AMCATS,,,Anna Maria,Anna Maria,,Massachusetts,430.0
+431,,Minneapolis,MIAC,United States,DIII,,,,,Auggies,,,Augsburg,Augsburg,,Minnesota,431.0
+432,,Rock Island,CCIW,United States,DIII,,,,,Vikings,,,Augustana (IL),Augustana (IL),,Illinois,432.0
+433,,Aurora,NACC,United States,DIII,,,,,Spartans,,,Aurora,Aurora,,Illinois,433.0
+434,,Sherman,SAA,United States,DIII,,,,,Kangaroos,,,Austin,Austin,,Texas,434.0
+435,,Danville,USA South,United States,DIII,,,,,Cougars,,,Averett,Averett,,Virginia,435.0
+436,,Berea,OAC,United States,DIII,,,,,Yellow Jackets,,,Baldwin Wallace,Baldwin Wallace,,Ohio,436.0
+437,,Lewiston,NESCAC,United States,DIII,,,,,Bobcats,,,Bates,Bates,,Maine,437.0
+438,,Leicester,CCC Football,United States,DIII,,,,,Hawks,,,Becker,Becker,,Massachusetts,438.0
+439,,Jackson,ASC,United States,DIII,,,,,Blazers,,,Belhaven,Belhaven,,Mississippi,439.0
+440,,Beloit,MWC,United States,DIII,,,,,Buccaneers,,,Beloit,Beloit,,Wisconsin,440.0
+441,,Lisle,NACC,United States,DIII,,,,,Eagles,,,Benedictine,Benedictine,,Illinois,441.0
+442,,Mount Berry,SAA,United States,DIII,,,,,Vikings,,,Berry,Berry,,Georgia,442.0
+443,,Bethany,PAC,United States,DIII,,,,,Bison,,,Bethany,Bethany,,West Virginia,443.0
+444,,Arden Hills,MIAC,United States,DIII,,,,,Royals,,,Bethel,Bethel,,Minnesota,444.0
+445,,Birmingham,SAA,United States,DIII,,,,,Panthers,,,Birmingham-Southern,Birmingham-Southern,,Alabama,445.0
+446,,Bluffton,HCAC,United States,DIII,,,,,Beavers,,,Bluffton,Bluffton,,Ohio,446.0
+447,,Brunswick,NESCAC,United States,DIII,,,,,Polar Bears,,,Bowdoin,Bowdoin,,Maine,447.0
+448,,Brevard,USA South,United States,DIII,,,,,Tornados,,,Brevard[a],Brevard[a],,North Carolina,448.0
+449,,Bridgewater,ODAC,United States,DIII,,,,,Eagles,,,Bridgewater,Bridgewater,,Virginia,449.0
+450,,Bridgewater,MASCAC,United States,DIII,,,,,Bears,,,Bridgewater State,Bridgewater State,,Massachusetts,450.0
+451,,Brockport,Empire 8,United States,DIII,,,,,Golden Eagles,,,Brockport,Brockport,,New York,451.0
+452,,Storm Lake,ARC,United States,DIII,,,,,Beavers,,,Buena Vista,Buena Vista,,Iowa,452.0
+453,,Buffalo,Liberty,United States,DIII,,,,,Bengals,,,Buffalo State,Buffalo State,,New York,453.0
+454,,Thousand Oaks,SCIAC,United States,DIII,,,,,Kingsmen,,,Cal Lutheran,Cal Lutheran,,California,454.0
+455,,Columbus,OAC,United States,DIII,,,,,Crusaders,,,Capital,Capital,,Ohio,455.0
+456,,Northfield,MIAC,United States,DIII,,,,,Knights,,,Carleton,Carleton,,Minnesota,456.0
+457,,Pittsburgh,PAC,United States,DIII,,,,,Tartans,,,Carnegie Mellon,Carnegie Mellon,,Pennsylvania,457.0
+458,,Waukesha,CCIW,United States,DIII,,,,,Pioneers,,,Carroll (WI),Carroll (WI),,Wisconsin,458.0
+459,,Kenosha,CCIW,United States,DIII,,,,,Red Men,,,Carthage,Carthage,,Wisconsin,459.0
+460,,Cleveland,PAC,United States,DIII,,,,,Spartans,,,Case Western Reserve,Case Western Reserve,,Ohio,460.0
+461,,Castleton,ECFC,United States,DIII,,,,,Spartans,,,Castleton,Castleton,,Vermont,461.0
+462,,Washington,NEWMAC,United States,DIII,,,,,Cardinals,,,Catholic,Catholic,,District of Columbia,462.0
+463,,Pella,ARC,United States,DIII,,,,,Dutch,,,Central (IA),Central (IA),,Iowa,463.0
+464,,Danville,SAA,United States,DIII,,,,,Colonels,,,Centre,Centre,,Kentucky,464.0
+465,,Orange,SCIAC,United States,DIII,,,,,Panthers,,,Chapman,Chapman,,California,465.0
+466,,Chicago,MWC,United States,DIII,,,,,Maroons,,,Chicago,Chicago,,Illinois,466.0
+467,,Newport News,NJAC,United States,DIII,,,,,Captains,,,Christopher Newport,Christopher Newport,,Virginia,467.0
+468,,Claremont,SCIAC,United States,DIII,,,,,Stags,,,Claremont-Mudd-Scripps,Claremont-Mudd-Scripps,,California,468.0
+469,,New London,NEWMAC,United States,DIII,,,,,Bears,,,Coast Guard,Coast Guard,,Connecticut,469.0
+470,,Cedar Rapids,ARC,United States,DIII,,,,,Kohawks,,,Coe,Coe,,Iowa,470.0
+471,,Waterville,NESCAC,United States,DIII,,,,,White Mules,,,Colby,Colby,,Maine,471.0
+472,,Ewing,NJAC,United States,DIII,,,,,Lions,,,College of New Jersey,College of New Jersey,,New Jersey,472.0
+473,,River Forest,NACC,United States,DIII,,,,,Cougars,,,Concordia (IL),Concordia (IL),,Illinois,473.0
+474,,Moorhead,MIAC,United States,DIII,,,,,Cobbers,,,Concordia (Moorhead),Concordia (Moorhead),,Minnesota,474.0
+475,,Mequon,NACC,United States,DIII,,,,,Falcons,,,Concordia (WI),Concordia (WI),,Wisconsin,475.0
+476,,Mount Vernon,MWC,United States,DIII,,,,,Rams,,,Cornell (IA),Cornell (IA),,Iowa,476.0
+477,,Cortland,Empire 8,United States,DIII,,,,,Red Dragons,,,Cortland State,Cortland State,,New York,477.0
+478,,St. Bonifacius,UMAC,United States,DIII,,,,,Storm,,,Crown,Crown,,Minnesota,478.0
+479,,Milton,CCC Football,United States,DIII,,,,,Colonels,,,Curry,Curry,,Massachusetts,479.0
+480,,Franklin,ECFC,United States,DIII,,,,,Bulldogs,,,Dean,Dean,,Massachusetts,480.0
+481,,Defiance,HCAC,United States,DIII,,,,,YellowJackets,,,Defiance,Defiance,,Ohio,481.0
+482,,Doylestown,MAC,United States,DIII,,,,,Aggies,,,Delaware Valley,Delaware Valley,,Pennsylvania,482.0
+483,,Granville,NCAC,United States,DIII,,,,,Big Red,,,Denison,Denison,,Ohio,483.0
+484,,Greencastle,NCAC,United States,DIII,,,,,Tigers,,,DePauw,DePauw,,Indiana,484.0
+485,,Carlisle,Centennial,United States,DIII,,,,,Red Devils,,,Dickinson,Dickinson,,Pennsylvania,485.0
+486,,Dubuque,ARC,United States,DIII,,,,,Spartans,,,Dubuque,Dubuque,,Iowa,486.0
+487,,Marshall,ASC,United States,DIII,,,,,Tigers,,,East Texas Baptist,East Texas Baptist,,Texas,487.0
+488,,Elmhurst,CCIW,United States,DIII,,,,,Bluejays,,,Elmhurst,Elmhurst,,Illinois,488.0
+489,,Emory,ODAC,United States,DIII,,,,,Wasps,,,Emory & Henry,Emory & Henry,,Virginia,489.0
+490,,Beverly,CCC Football,United States,DIII,,,,,Gulls,,,Endicott,Endicott,,Massachusetts,490.0
+491,,Eureka,UMAC,United States,DIII,,,,,Red Devils,,,Eureka,Eureka,,Illinois,491.0
+492,,Madison,MAC,United States,DIII,,,,,Devils,,,FDU-Florham,FDU-Florham,,New Jersey,492.0
+493,,Ferrum,ODAC,United States,DIII,,,,,Panthers,,,Ferrum,Ferrum,,Virginia,493.0
+494,,Hancock,MIAA,United States,DIII,,,,,Lions,,,Finlandia,Finlandia,,Michigan,494.0
+495,,Fitchburg,MASCAC,United States,DIII,,,,,Falcons,,,Fitchburg State,Fitchburg State,,Massachusetts,495.0
+496,,Framingham,MASCAC,United States,DIII,,,,,Rams,,,Framingham State,Framingham State,,Massachusetts,496.0
+497,,Franklin,HCAC,United States,DIII,,,,,Grizzlies,,,Franklin,Franklin,,Indiana,497.0
+498,,Lancaster,Centennial,United States,DIII,,,,,Diplomats,,,Franklin & Marshall,Franklin & Marshall,,Pennsylvania,498.0
+499,,Washington,ECFC,United States,DIII,,,,,Bison,,,Gallaudet,Gallaudet,,District of Columbia,499.0
+500,,Beaver Falls,PAC,United States,DIII,,,,,Golden Tornadoes,,,Geneva,Geneva,,Pennsylvania,500.0
+501,,Newberg,NWC,United States,DIII,,,,,Bruins,,,George Fox,George Fox,,Oregon,501.0
+502,,Gettysburg,Centennial,United States,DIII,,,,,Bullets,,,Gettysburg,Gettysburg,,Pennsylvania,502.0
+503,,Greensboro,USA South,United States,DIII,,,,,Pride,,,Greensboro,Greensboro,,North Carolina,503.0
+504,,Greenville,UMAC,United States,DIII,,,,,Panthers,,,Greenville,Greenville,,Illinois,504.0
+505,,Grinnell,MWC,United States,DIII,,,,,Pioneers,,,Grinnell,Grinnell,,Iowa,505.0
+506,,Grove City,PAC,United States,DIII,,,,,Wolverines,,,Grove City,Grove City,,Pennsylvania,506.0
+507,,Greensboro,ODAC,United States,DIII,,,,,Quakers,,,Guilford,Guilford,,North Carolina,507.0
+508,,St. Peter,MIAC,United States,DIII,,,,,Gusties,,,Gustavus Adolphus,Gustavus Adolphus,,Minnesota,508.0
+509,,Clinton,NESCAC,United States,DIII,,,,,Continentals,,,Hamilton,Hamilton,,New York,509.0
+510,,St. Paul,MIAC,United States,DIII,,,,,Pipers,,,Hamline,Hamline,,Minnesota,510.0
+511,,Hampden Sydney,ODAC,United States,DIII,,,,,Tigers,,,Hampden–Sydney,Hampden–Sydney,,Virginia,511.0
+512,,Hanover,HCAC,United States,DIII,,,,,Panthers,,,Hanover,Hanover,,Indiana,512.0
+513,,Abilene,ASC,United States,DIII,,,,,Cowboys,,,Hardin–Simmons,Hardin–Simmons,,Texas,513.0
+514,,Oneonta,Empire 8,United States,DIII,,,,,Hawks,,,Hartwick,Hartwick,,New York,514.0
+515,,Tiffin,OAC,United States,DIII,,,,,Student Princes,,,Heidelberg,Heidelberg,,Ohio,515.0
+516,,Conway,SAA,United States,DIII,,,,,Warriors,,,Hendrix,Hendrix,,Arkansas,516.0
+517,,Hiram,NCAC,United States,DIII,,,,,Terriers,,,Hiram,Hiram,,Ohio,517.0
+518,,Geneva,Liberty,United States,DIII,,,,,Statesmen,,,Hobart,Hobart,,New York,518.0
+519,,Holland,MIAA,United States,DIII,,,,,Flying Dutchmen,,,Hope,Hope,,Michigan,519.0
+520,,Brownwood,ASC,United States,DIII,,,,,Yellow Jackets,,,Howard Payne,Howard Payne,,Texas,520.0
+521,,Montgomery,USA South,United States,DIII,,,,,Hawks,,,Huntingdon,Huntingdon,,Alabama,521.0
+522,,Bangor,CCC Football,United States,DIII,,,,,Eagles,,,Husson,Husson,,Maine,522.0
+523,,Jacksonville,MWC,United States,DIII,,,,,Blueboys,,,Illinois College,Illinois College,,Illinois,523.0
+524,,Bloomington,CCIW,United States,DIII,,,,,Titans,,,Illinois Wesleyan,Illinois Wesleyan,,Illinois,524.0
+525,,Mt. Pleasant,UMAC,United States,DIII,,,,,Tigers,,,Iowa Wesleyan,Iowa Wesleyan,,Iowa,525.0
+526,,Ithaca,Liberty,United States,DIII,,,,,Bombers,,,Ithaca,Ithaca,,New York,526.0
+527,,University Heights,OAC,United States,DIII,,,,,Blue Streaks,,,John Carroll,John Carroll,,Ohio,527.0
+528,,Baltimore,Centennial,United States,DIII,,,,,Blue Jays,,,Johns Hopkins,Johns Hopkins,,Maryland,528.0
+529,,Huntingdon,Centennial,United States,DIII,,,,,Eagles,,,Juniata,Juniata,,Pennsylvania,529.0
+530,,Kalamazoo,MIAA,United States,DIII,,,,,Hornets,,,Kalamazoo,Kalamazoo,,Michigan,530.0
+531,,Union Township,NJAC,United States,DIII,,,,,Cougars,,,Kean,Kean,,New Jersey,531.0
+532,,Gambier,NCAC,United States,DIII,,,,,Lords,,,Kenyon,Kenyon,,Ohio,532.0
+533,,Wilkes-Barre,MAC,United States,DIII,,,,,Monarchs,,,King's,King's,,Pennsylvania,533.0
+534,,Galesburg,MWC,United States,DIII,,,,,Prairie Fire,,,Knox,Knox,,Illinois,534.0
+535,,La Verne,SCIAC,United States,DIII,,,,,Leopards,,,La Verne,La Verne,,California,535.0
+536,,LaGrange,USA South,United States,DIII,,,,,Panthers,,,LaGrange,LaGrange,,Georgia,536.0
+537,,Lake Forest,MWC,United States,DIII,,,,,Foresters,,,Lake Forest,Lake Forest,,Illinois,537.0
+538,,Sheboygan,NACC,United States,DIII,,,,,Muskies,,,Lakeland,Lakeland,,Wisconsin,538.0
+539,,Appleton,MWC,United States,DIII,,,,,Vikings,,,Lawrence,Lawrence,,Wisconsin,539.0
+540,,Annville,MAC,United States,DIII,,,,,Flying Dutchmen,,,Lebanon Valley,Lebanon Valley,,Pennsylvania,540.0
+541,,Portland,NWC,United States,DIII,,,,,Pioneers,,,Lewis & Clark,Lewis & Clark,,Oregon,541.0
+542,,McMinnville,NWC,United States,DIII,,,,,Wildcats,,,Linfield,Linfield,,Oregon,542.0
+543,,Dubuque,ARC,United States,DIII,,,,,Duhawks,,,Loras,Loras,,Iowa,543.0
+544,,Pineville,ASC,United States,DIII,,,,,Wildcats,,,Louisiana College,Louisiana College,,Louisiana,544.0
+545,,Decorah,ARC,United States,DIII,,,,,Norse,,,Luther,Luther,,Iowa,545.0
+546,,Williamsport,MAC,United States,DIII,,,,,Warriors,,,Lycoming,Lycoming,,Pennsylvania,546.0
+547,,St. Paul,MWC,United States,DIII,,,,,Scots,,,Macalester,Macalester,,Minnesota,547.0
+548,,Jacksonville,UMAC,United States,DIII,,,,,Highlanders,,,MacMurray,MacMurray,,Illinois,548.0
+549,,Castine,NEWMAC,United States,DIII,,,,,Mariners,,,Maine Maritime,Maine Maritime,,Maine,549.0
+550,,North Manchester,HCAC,United States,DIII,,,,,Spartans,,,Manchester,Manchester,,Indiana,550.0
+551,,Marietta,OAC,United States,DIII,,,,,Pioneers,,,Marietta,Marietta,,Ohio,551.0
+552,,New Ulm,UMAC,United States,DIII,,,,,Knights,,,Martin Luther,Martin Luther,,Minnesota,552.0
+553,,Belton,ASC,United States,DIII,,,,,Crusaders,,,Mary Hardin–Baylor,Mary Hardin–Baylor,,Texas,553.0
+554,,Maryville,USA South,United States,DIII,,,,,Scots,,,Maryville,Maryville,,Tennessee,554.0
+555,,North Dartmouth,MASCAC,United States,DIII,,,,,Corsairs,,,UMass Dartmouth,UMass Dartmouth,,Massachusetts,555.0
+556,,Buzzards Bay,MASCAC,United States,DIII,,,,,Buccaneers,,,Massachusetts Maritime,Massachusetts Maritime,,Massachusetts,556.0
+557,,Westminster,Centennial,United States,DIII,,,,,Green Terror,,,McDaniel,McDaniel,,Maryland,557.0
+558,,Abilene,ASC,United States,DIII,,,,,War Hawks,,,McMurry,McMurry,,Texas,558.0
+559,,Kings Point,NEWMAC,United States,DIII,,,,,Mariners,,,Merchant Marine,Merchant Marine,,New York,559.0
+560,,Fayetteville,USA South,United States,DIII,,,,,Monarchs,,,Methodist,Methodist,,North Carolina,560.0
+561,,Middlebury,NESCAC,United States,DIII,,,,,Panthers,,,Middlebury,Middlebury,,Vermont,561.0
+562,,Decatur,CCIW,United States,DIII,,,,,Big Blue,,,Millikin,Millikin,,Illinois,562.0
+563,,Jackson,SAA,United States,DIII,,,,,Majors,,,Millsaps,Millsaps,,Mississippi,563.0
+564,,Morris,UMAC,United States,DIII,,,,,Cougars,,,Minnesota-Morris,Minnesota-Morris,,Minnesota,564.0
+565,,Dallas,MAC,United States,DIII,,,,,Cougars,,,Misericordia,Misericordia,,Pennsylvania,565.0
+566,,Cambridge,NEWMAC,United States,DIII,,,,,Engineers,,,MIT,MIT,,Massachusetts,566.0
+567,,Monmouth,MWC,United States,DIII,,,,,Fighting Scots,,,Monmouth (IL),Monmouth (IL),,Illinois,567.0
+568,,Upper Montclair,NJAC,United States,DIII,,,,,Red Hawks,,,Montclair State,Montclair State,,New Jersey,568.0
+569,,Bethlehem,Centennial,United States,DIII,,,,,Greyhounds,,,Moravian,Moravian,,Pennsylvania,569.0
+570,,Alliance,OAC,United States,DIII,,,,,Purple Raiders,,,Mount Union,Mount Union,,Ohio,570.0
+571,,Cincinnati,HCAC,United States,DIII,,,,,Lions,,,Mount St. Joseph,Mount St. Joseph,,Ohio,571.0
+572,,Allentown,Centennial,United States,DIII,,,,,Mules,,,Muhlenberg,Muhlenberg,,Pennsylvania,572.0
+573,,New Concord,OAC,United States,DIII,,,,,Fighting Muskies,,,Muskingum,Muskingum,,Ohio,573.0
+574,,Lincoln,ARC,United States,DIII,,,,,Prairie Wolves,,,Nebraska Wesleyan,Nebraska Wesleyan,,Nebraska,574.0
+575,,Biddeford,CCC Football,United States,DIII,,,,,Nor'easters,,,New England (ME),New England (ME),,Maine,575.0
+576,,Dudley,CCC Football,United States,DIII,,,,,Bison,,,Nichols,Nichols,,Massachusetts,576.0
+577,,Rocky Mount,USA South,United States,DIII,,,,,Battling Bishops,,,North Carolina Wesleyan,North Carolina Wesleyan,,North Carolina,577.0
+578,,Naperville,CCIW,United States,DIII,,,,,Cardinals,,,North Central,North Central,,Illinois,578.0
+579,,Chicago,CCIW,United States,DIII,,,,,Vikings,,,North Park,North Park,,Illinois,579.0
+580,,Roseville,UMAC,United States,DIII,,,,,Eagles,,,Northwestern (MN),Northwestern (MN),,Minnesota,580.0
+581,,Northfield,NEWMAC,United States,DIII,,,,,Cadets,,,Norwich,Norwich,,Vermont,581.0
+582,,Oberlin,NCAC,United States,DIII,,,,,Yeomen,,,Oberlin,Oberlin,,Ohio,582.0
+583,,Eagle Rock,SCIAC,United States,DIII,,,,,Tigers,,,Occidental,Occidental,,California,583.0
+584,,Ada,OAC,United States,DIII,,,,,Polar Bears,,,Ohio Northern,Ohio Northern,,Ohio,584.0
+585,,Delaware,NCAC,United States,DIII,,,,,Battling Bishops,,,Ohio Wesleyan,Ohio Wesleyan,,Ohio,585.0
+586,,Olivet,MIAA,United States,DIII,,,,,Comets,,,Olivet,Olivet,,Michigan,586.0
+587,,Westerville,OAC,United States,DIII,,,,,Cardinals,,,Otterbein,Otterbein,,Ohio,587.0
+588,,Forest Grove,NWC,United States,DIII,,,,,Boxers,,,Pacific (OR),Pacific (OR),,Oregon,588.0
+589,,Tacoma,NWC,United States,DIII,,,,,Lutes,,,Pacific Lutheran,Pacific Lutheran,,Washington,589.0
+590,,Plymouth,MASCAC,United States,DIII,,,,,Panthers,,,Plymouth State,Plymouth State,,New Hampshire,590.0
+591,,Claremont,SCIAC,United States,DIII,,,,,Sagehens,,,Pomona-Pitzer,Pomona-Pitzer,,California,591.0
+592,,Tacoma,NWC,United States,DIII,,,,,Loggers,,,Puget Sound,Puget Sound,,Washington,592.0
+593,,Ashland,ODAC,United States,DIII,,,,,Yellow Jackets,,,Randolph–Macon,Randolph–Macon,,Virginia,593.0
+594,,Redlands,SCIAC,United States,DIII,,,,,Bulldogs,,,Redlands,Redlands,,California,594.0
+595,,Memphis,SAA,United States,DIII,,,,,Lynx,,,Rhodes,Rhodes,,Tennessee,595.0
+596,,Ripon,MWC,United States,DIII,,,,,Red Hawks,,,Ripon,Ripon,,Wisconsin,596.0
+597,,Rochester,Liberty,United States,DIII,,,,,Yellowjackets,,,Rochester,Rochester,,New York,597.0
+598,,Rockford,NACC,United States,DIII,,,,,Regents,,,Rockford,Rockford,,Illinois,598.0
+599,,Terre Haute,HCAC,United States,DIII,,,,,Engineers,,,Rose–Hulman,Rose–Hulman,,Indiana,599.0
+600,,Glassboro,NJAC,United States,DIII,,,,,Profs,,,Rowan,Rowan,,New Jersey,600.0
+601,,Troy,Liberty,United States,DIII,,,,,Engineers,,,RPI,RPI,,New York,601.0
+602,,Pittsford,Empire 8,United States,DIII,,,,,Cardinals,,,St. John Fisher,St. John Fisher,,New York,602.0
+603,,Collegeville,MIAC,United States,DIII,,,,,Johnnies,,,St. John's (MN),St. John's (MN),,Minnesota,603.0
+604,,Canton,Liberty,United States,DIII,,,,,Saints,,,St. Lawrence,St. Lawrence,,New York,604.0
+605,,De Pere,MWC,United States,DIII,,,,,Green Knights,,,St. Norbert,St. Norbert,,Wisconsin,605.0
+606,,Northfield,MIAC,United States,DIII,,,,,Oles,,,St. Olaf,St. Olaf,,Minnesota,606.0
+607,,Duluth,UMAC,United States,DIII,,,,,Saints,,,St. Scholastica,St. Scholastica,,Minnesota,607.0
+608,,St. Paul,MIAC,United States,DIII,,,,,Tommies,,,St. Thomas,St. Thomas,,Minnesota,608.0
+609,,Latrobe,PAC,United States,DIII,,,,,Bearcats,,,St. Vincent,St. Vincent,,Pennsylvania,609.0
+610,,Salisbury,NJAC,United States,DIII,,,,,Seagulls,,,Salisbury,Salisbury,,Maryland,610.0
+611,,Newport,CCC Football,United States,DIII,,,,,Seahawks,,,Salve Regina,Salve Regina,,Rhode Island,611.0
+612,,Sewanee,SAA,United States,DIII,,,,,Tigers,,,Sewanee,Sewanee,,Tennessee,612.0
+613,,Winchester,ODAC,United States,DIII,,,,,Hornets,,,Shenandoah,Shenandoah,,Virginia,613.0
+614,,Indianola,ARC,United States,DIII,,,,,Storm,,,Simpson,Simpson,,Iowa,614.0
+615,,Buena Vista,ODAC,United States,DIII,,,,,Knights,,,Southern Virginia,Southern Virginia,,Virginia,615.0
+616,,Georgetown,ASC,United States,DIII,,,,,Pirates,,,Southwestern,Southwestern,,Texas,616.0
+617,,Springfield,NEWMAC,United States,DIII,,,,,Pride,,,Springfield,Springfield,,Massachusetts,617.0
+618,,Owings Mills,MAC,United States,DIII,,,,,Mustangs,,,Stevenson,Stevenson,,Maryland,618.0
+619,,Alpine,ASC,United States,DIII,,,,,Lobos,,,Sul Ross State,Sul Ross State,,Texas,619.0
+620,,Bronx,ECFC,United States,DIII,,,,,Privateers,,,SUNY-Maritime,SUNY-Maritime,,New York,620.0
+621,,Morrisville,Empire 8,United States,DIII,,,,,Mustangs,,,SUNY-Morrisville,SUNY-Morrisville,,New York,621.0
+622,,Selinsgrove,Centennial,United States,DIII,,,,,River Hawks,,,Susquehanna,Susquehanna,,Pennsylvania,622.0
+623,,Seguin,ASC,United States,DIII,,,,,Bulldogs,,,Texas Lutheran,Texas Lutheran,,Texas,623.0
+624,,Greenville,PAC,United States,DIII,,,,,Tomcats,,,Thiel,Thiel,,Pennsylvania,624.0
+625,,Angola,MIAA,United States,DIII,,,,,Thunder,,,Trine,Trine,,Indiana,625.0
+626,,Hartford,NESCAC,United States,DIII,,,,,Bantams,,,Trinity (CT),Trinity (CT),,Connecticut,626.0
+627,,San Antonio,SAA,United States,DIII,,,,,Tigers,,,Trinity (TX),Trinity (TX),,Texas,627.0
+628,,Medford,NESCAC,United States,DIII,,,,,Jumbos,,,Tufts,Tufts,,Massachusetts,628.0
+629,,Schenectady,Liberty,United States,DIII,,,,,Dutchmen,,,Union,Union,,New York,629.0
+630,,Collegeville,Centennial,United States,DIII,,,,,Bears,,,Ursinus,Ursinus,,Pennsylvania,630.0
+631,,Utica,Empire 8,United States,DIII,,,,,Pioneers,,,Utica,Utica,,New York,631.0
+632,,Crawfordsville,NCAC,United States,DIII,,,,,Little Giants,,,Wabash,Wabash,,Indiana,632.0
+633,,Waverly,ARC,United States,DIII,,,,,Knights,,,Wartburg,Wartburg,,Iowa,633.0
+634,,Washington,PAC,United States,DIII,,,,,Presidents,,,Washington & Jefferson,Washington & Jefferson,,Pennsylvania,634.0
+635,,Lexington,ODAC,United States,DIII,,,,,Generals,,,Washington & Lee,Washington & Lee,,Virginia,635.0
+636,,St. Louis,CCIW,United States,DIII,,,,,Bears,,,Washington (MO),Washington (MO),,Missouri,636.0
+637,,Waynesburg,PAC,United States,DIII,,,,,Yellow Jackets,,,Waynesburg,Waynesburg,,Pennsylvania,637.0
+638,,Dover,NJAC,United States,DIII,,,,,Wolverines,,,Wesley,Wesley,,Delaware,638.0
+639,,Middletown,NESCAC,United States,DIII,,,,,Cardinals,,,Wesleyan,Wesleyan,,Connecticut,639.0
+640,,Danbury,MASCAC,United States,DIII,,,,,Colonials,,,Western Connecticut,Western Connecticut,,Connecticut,640.0
+641,,Springfield,CCC Football,United States,DIII,,,,,Golden Bears,,,Western New England,Western New England,,Massachusetts,641.0
+642,,Westfield,MASCAC,United States,DIII,,,,,Owls,,,Westfield State,Westfield State,,Massachusetts,642.0
+643,,Fulton,UMAC,United States,DIII,,,,,Blue Jays,,,Westminster (MO),Westminster (MO),,Missouri,643.0
+644,,New Wilmington,PAC,United States,DIII,,,,,Titans,,,Westminster (PA),Westminster (PA),,Pennsylvania,644.0
+645,,Wheaton,CCIW,United States,DIII,,,,,Thunder,,,Wheaton,Wheaton (IL),,Illinois,645.0
+646,,Whittier,SCIAC,United States,DIII,,,,,Poets,,,Whittier,Whittier,,California,646.0
+647,,Spokane,NWC,United States,DIII,,,,,Pirates,,,Whitworth,Whitworth,,Washington,647.0
+648,,Chester,MAC,United States,DIII,,,,,Pride,,,Widener,Widener,,Pennsylvania,648.0
+649,,Wilkes-Barre,MAC,United States,DIII,,,,,Colonels,,,Wilkes,Wilkes,,Pennsylvania,649.0
+650,,Salem,NWC,United States,DIII,,,,,Bearcats,,,Willamette,Willamette,,Oregon,650.0
+651,,Wayne,NJAC,United States,DIII,,,,,Pioneers,,,William Paterson,William Paterson,,New Jersey,651.0
+652,,Williamstown,NESCAC,United States,DIII,,,,,Ephs,,,Williams,Williams,,Massachusetts,652.0
+653,,Wilmington,OAC,United States,DIII,,,,,Quakers,,,Wilmington,Wilmington,,Ohio,653.0
+654,,Milwaukee,NACC,United States,DIII,,,,,Warriors,,,Wisconsin Lutheran,Wisconsin Lutheran,,Wisconsin,654.0
+655,,Eau Claire,WIAC,United States,DIII,,,,,Blugolds,,,UW–Eau Claire,UW–Eau Claire,,Wisconsin,655.0
+656,,La Crosse,WIAC,United States,DIII,,,,,Eagles,,,UW–La Crosse,UW–La Crosse,,Wisconsin,656.0
+657,,Oshkosh,WIAC,United States,DIII,,,,,Titans,,,UW–Oshkosh,UW–Oshkosh,,Wisconsin,657.0
+658,,Platteville,WIAC,United States,DIII,,,,,Pioneers,,,UW–Platteville,UW–Platteville,,Wisconsin,658.0
+659,,River Falls,WIAC,United States,DIII,,,,,Falcons,,,UW–River Falls,UW–River Falls,,Wisconsin,659.0
+660,,Stevens Point,WIAC,United States,DIII,,,,,Pointers,,,Wisconsin–Stevens Point,UW–Stevens Point,,Wisconsin,660.0
+661,,Menomonie,WIAC,United States,DIII,,,,,Blue Devils,,,Wisconsin–Stout,UW–Stout,,Wisconsin,661.0
+662,,Whitewater,WIAC,United States,DIII,,,,,Warhawks,,,Wisconsin–Whitewater,UW–Whitewater,,Wisconsin,662.0
+663,,Springfield,NCAC,United States,DIII,,,,,Tigers,,,Wittenberg,Wittenberg,,Ohio,663.0
+664,,Wooster,NCAC,United States,DIII,,,,,Fighting Scots,,,Wooster,Wooster,,Ohio,664.0
+665,,Worcester,NEWMAC,United States,DIII,,,,,Engineers,,,Worcester Poly,Worcester Poly,,Massachusetts,665.0
+666,,Worcester,MASCAC,United States,DIII,,,,,Lancers,,,Worcester State,Worcester State,,Massachusetts,666.0
+667,,Hempstead,CAA,United States,FCS,,,,,,,,Hofstra,,,New York,
+668,,Omaha,MIAA,United States,DII,,,,,,,,Nebraska-Omaha,,,Nebraska,
+669,,Florence,Big South,United States,FCS,,,,,,,,North Alabama,,,Alabama,
+670,,Montreal,International,Canada,International,,,,,,,,McGill,,,Quebec,
+672,,Oskaloosa,HAAC,United States,NAIA,,,,,,,,William Penn,,,Iowa,
+673,,Oroville,Community College,United States,Community College,,,,,,,,Butte JC (CA),,,California,
+674,,Tuscaloosa,SIAC,United States,DII,,,,,,,,Stillman,,,Alabama,
+675,,Walnut,Community College,United States,Community College,,,,,,,,Mount San Antonio JC,,,California,
+676,,Arcata,GNAC,United States,DII,,,,,,,,Humboldt State,,,California,
+677,,Langston,Red River,United States,NAIA,,,,,,,,Langston,,,Oklahoma,
+678,,Jackson,TSAC,United States,NAIA,,,,,,,,Lambuth,,,Tennessee,
+679,,Regina,International,Canada,International,,,,,,,,Regina,,,Saskatchewan,
+681,,Sydney,International,Australia,International,,,,,,,,Australia,,,New South Wales,
+682,,Winnipeg,International,Canada,International,,,,,,,,Manitoba,,,Manitoba,
+685,,Jamestown,GPAC,United States,NAIA,,,,,,,,Jamestown,,,North Dakota,
+686,,Lawrenceville,CIAA,United States,DII,,,,,,,,St. Paul's (VA),,,Virginia,
+687,,Atlanta,SIAC,United States,DII,,,,,,,,Morris Brown,,,Georgia,
+688,,Long Beach,Community College,United States,Community College,,,,,,,,Long Beach CC,,,California,
+689,,Poplarville,Community College,United States,Community College,,,,,,,,Pearl River CC,,,Mississippi,
+691,,Stuttgart,International,Germany,International,,,,,,,,Germany,,,Baden-Württemberg,
+692,,McKenzie,SSAC,United States,NAIA,,,,,,,,Bethel (TN),,,Tennessee,
+693,,London,International,Canada,International,,,,,,,,West. Ontario,,,Ontario,

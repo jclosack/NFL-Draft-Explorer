@@ -1,0 +1,35 @@
+Abbr,First,Second,Third,Team_Name,URL,Conference,Division,City,Stadium,Address,Latitude (generated),Longitude (generated),NFL Row Index,NFL Column Index
+CHI,Chicago,Bears,,Chicago Bears,chicago-bears,NFC,North,"Chicago, Illinois",Soldier Field,"1410 Museum Campus Dr, Chicago, IL 60605, USA",41.8623132,-87.6166884,2,1
+DET,Detroit,Lions,,Detroit Lions,detroit-lions,NFC,North,"Detroit, Michigan",Ford Field,"2000 Brush St, Detroit, MI 48226, USA",42.3400064,-83.045603,2,2
+GB,Green,Bay,Packers,Green Bay Packers,green-bay-packers,NFC,North,"Green Bay, Wisconsin",Lambeau Field,"1265 Lombardi Ave, Green Bay, WI 54304, USA",44.5013406,-88.06220830000001,2,3
+MIN,Minnesota,Vikings,,Minnesota Vikings,minnesota-vikings,NFC,North,"Minneapolis, Minnesota",U.S. Bank Stadium,"401 Chicago Ave, Minneapolis, MN 55415, USA",44.9737514,-93.2578154,2,4
+ATL,Atlanta,Falcons,,Atlanta Falcons,atlanta-falcons,NFC,South,"Atlanta, Georgia",Mercedes-Benz Stadium,"1 AMB Dr NW, Atlanta, GA 30313, USA",33.7554483,-84.40085499999999,2,5
+CAR,Carolina,Panthers,,Carolina Panthers,carolina-panthers,NFC,South,"Charlotte, North Carolina",Bank of America Stadium,"800 S Mint St, Charlotte, NC 28202, USA",35.2258108,-80.8528465,2,6
+NO,New,Orleans,Saints,New Orleans Saints,new-orleans-saints,NFC,South,"New Orleans, Louisiana",Mercedes-Benz Superdome,"1500 Sugar Bowl Dr, New Orleans, LA 70112, USA",29.951061,-90.0812442,2,7
+TB,Tampa,Bay,Buccaneers,Tampa Bay Buccaneers,tampa-bay-buccaneers,NFC,South,"Tampa, Florida",Raymond James Stadium,"4201 N Dale Mabry Hwy, Tampa, FL 33607, USA",27.9758691,-82.5033344,2,8
+,,,,,,NFC,,,,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,2,9
+DAL,Dallas,Cowboys,,Dallas Cowboys,dallas-cowboys,NFC,East,"Arlington, Texas",AT&T Stadium,"1 AT&T Way, Arlington, TX 76011, USA",32.7472844,-97.09449389999999,2,10
+BAL,Baltimore,Ravens,,Baltimore Ravens,baltimore-ravens,AFC,North,"Baltimore, Maryland",M&T Bank Stadium,"1101 Russell St, Baltimore, MD 21230, USA",39.2779876,-76.6227044,1,1
+NYG,New,York,Giants,New York Giants,new-york-giants,NFC,East,"East Rutherford, New Jersey",MetLife Stadium,"1 MetLife Stadium Dr, East Rutherford, NJ 07073, USA",40.8135064,-74.074457,2,11
+PHI,Philadelphia,Eagles,,Philadelphia Eagles,philadelphia-eagles,NFC,East,"Philadelphia,Â Pennsylvania",Lincoln Financial Field,"1 Lincoln Financial Field Way, Philadelphia, PA 19148, USA",39.9007674,-75.1674635,2,12
+WSH,Washington,Redskins,,Washington Redskins,washington-redskins,NFC,East,"Landover, Maryland",FedExField,"1600 Fedex Way, Landover, MD 20785, USA",38.9076433,-76.8645454,2,13
+ARI,Arizona,Cardinals,,Arizona Cardinals,arizona-cardinals,NFC,West,"Glendale, Arizona",State Farm Stadium,"1 Cardinals Dr, Glendale, AZ 85305, USA",33.5276247,-112.2625593,2,14
+CIN,Cincinnati,Bengals,,Cincinnati Bengals,cincinnati-bengals,AFC,North,"Cincinnati, Ohio",Paul Brown Stadium,"1 Paul Brown Stadium, Cincinnati, OH 45202, USA",39.0954576,-84.51605769999999,1,2
+LAR,Los,Angeles,Rams,Los Angeles Rams,los-angeles-rams,NFC,West,"Los Angeles, California",Los Angeles Memorial Coliseum,"3911 S Figueroa St, Los Angeles, CA 90037, USA",34.0140526,-118.2878754,2,15
+SEA,Seattle,Seahawks,,Seattle Seahawks,seattle-seahawks,NFC,West,"Seattle, Washington",CenturyLink Field,"800 Occidental Ave S, Seattle, WA 98134, USA",47.5951518,-122.3316394,2,16
+CLE,Cleveland,Browns,,Cleveland Browns,cleveland-browns,AFC,North,"Cleveland, Ohio",FirstEnergy Stadium,"100 Alfred Lerner Way, Cleveland, OH 44114, USA",41.5060535,-81.6995481,1,3
+PIT,Pittsburgh,Steelers,,Pittsburgh Steelers,pittsburgh-steelers,AFC,North,"Pittsburgh, Pennsylvania",Heinz Field,"100 Art Rooney Ave, Pittsburgh, PA 15212, USA",40.4467648,-80.0157603,1,4
+HOU,Houston,Texans,,Houston Texans,houston-texans,AFC,South,"Houston, Texas",NRG Stadium,"NRG Pkwy, Houston, TX 77054, USA",29.6847219,-95.41070739999999,1,5
+IND,Indianapolis,Colts,,Indianapolis Colts,indianapolis-colts,AFC,South,"Indianapolis, Indiana",Lucas Oil Stadium,"500 S Capitol Ave, Indianapolis, IN 46225, USA",39.7601007,-86.16388769999999,1,6
+JAX,Jacksonville,Jaguars,,Jacksonville Jaguars,jacksonville-jaguars,AFC,South,"Jacksonville, Florida",TIAA Bank Field,"1 TIAA Bank Field Dr, Jacksonville, FL 32202, USA",30.323972,-81.63728929999999,1,7
+TEN,Tennessee,,,Tennessee Titans,titans,AFC,South,"Nashville, Tennessee",Nissan Stadium,"1 Titans Way, Nashville, TN 37213, USA",36.166479,-86.77128979999999,1,8
+,,,,,,AFC,,,,"1350 Spring St NW #1, Atlanta, GA 30309, USA",33.791638,-84.389488,1,9
+BUF,Buffalo,Bills,,Buffalo Bills,buffalo-bills,AFC,East,"Orchard Park, New York",New Era Field,"1 Bills Dr, Orchard Park, NY 14127, USA",42.7737546,-78.7869723,1,10
+MIA,Miami,Dolphins,,Miami Dolphins,miami-dolphins,AFC,East,"Miami Gardens, Florida",Hard Rock Stadium,"347 Don Shula Dr, Miami Gardens, FL 33056, USA",25.9579665,-80.2388604,1,11
+NE,New,England,Patriots,New England Patriots,new-england-patriots,AFC,East,"Foxborough, Massachusetts",Gillette Stadium,"1 Patriot Pl, Foxborough, MA 02035, USA",42.0909458,-71.2643465,1,12
+NYJ,New,York,Jets,New York Jets,new-york-jets,AFC,East,"East Rutherford, New Jersey",MetLife Stadium,"1 MetLife Stadium Dr, East Rutherford, NJ 07073, USA",40.8135064,-74.074457,1,13
+KC,Kansas,City,Chiefs,Kansas City Chiefs,kansas-city-chiefs,AFC,West,"Kansas City, Missouri",Arrowhead Stadium,"1 Arrowhead Dr, Kansas City, MO 64129, USA",39.04893910000001,-94.4839157,1,14
+DEN,Denver,Broncos,,Denver Broncos,denver-broncos,AFC,West,"Denver, Colorado",Empower Field at Mile High,"1701 Bryant St, Denver, CO 80204, USA",39.7438895,-105.0201094,1,15
+LAC,Los,Angeles,Chargers,Los Angeles Chargers,los-angeles-chargers,AFC,West,"Carson, California",Dignity Health Sports Park,"18400 S Avalon Blvd, Carson, CA 90746, USA",33.8643777,-118.2611426,1,16
+SF,San,Francisco,49ers,San Francisco 49ers,san-francisco-49ers,NFC,West,"Santa Clara, California",Levi's Stadium,"4900 Marie P DeBartolo Way, Santa Clara, CA 95054, USA",37.4031998,-121.9698013,2,17
+OAK,Oakland,Raiders,,Oakland Raiders,oakland-raiders,AFC,West,"Oakland, California",RingCentral Coliseum,"7000 Coliseum Way, Oakland, CA 94621, USA",37.7515946,-122.2005458,1,17
